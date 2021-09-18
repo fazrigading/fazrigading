@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello!👋
+## Introduction
+- My name is **Fazri Gading**
+- Call me **Gading**
+- 
 
-<!--
-**fazrigading/fazrigading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the words of Casey Neistat:
+> "You can't score without a goal."
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## Focuses
+- 🔭 I’m currently working on developing myself as a software engineer student in Mulawarman University, Indonesia.
+- 
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
