@@ -10,7 +10,7 @@
 ## Task Lists
 In the words of **Casey Neistat**:
 > _"You can't score without a goal."_
-- [ ] Complete at least 6 quests in #JuaraGCP 16-26 September 2021
+- [x] Complete at least 6 quests in #JuaraGCP 16-26 September 2021
 - [ ] Create repositories for past and on-going semester
 - [ ] Achieve GPA >3.9 this semester 
 
