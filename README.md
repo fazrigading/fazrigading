@@ -3,7 +3,7 @@
 ## Introduction
 
 - My name is **Fazri Gading** and please, call me **Gading**.
-- I am 19 years old and lived in Indonesia.
+- I am 20 years old and lived in Indonesia.
 - I study Informatics in Mulawarman University.
 - And I want to create IT/Space company in my country.
 
