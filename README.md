@@ -21,7 +21,7 @@ In the words of **Casey Neistat**:
 ## 📫 How to reach me:
 - [Email](mailto:fazrigading@gmail.com "Reach me via Email")
 - [Telegram](https://t.me/fazrigading "Telegram: Fazri Gading")
-- [Instagram](https://instagram.com/fazrigading "Instagram: @fazrigading")
+- [Instagram](https://instagram.com/gadiinggs "Instagram: @fazrigading")
 - [LinkedIn](https://www.linkedin.com/in/fazrigading/ "LinkedIn: fazrigading")
 - [Twitter](https://twitter.com/fazrigading "Twitter: @fazrigading")
 - [Facebook](https://www.facebook.com/fazrigading "Facebook: Fazri Gading")
