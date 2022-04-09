@@ -5,7 +5,7 @@
 - My name is **Fazri Gading** and please, call me **Gading**.
 - I am 20 years old and lived in Indonesia.
 - I study Informatics in Mulawarman University.
-- And I want to create IT/Space company in my country.
+- My dream is to be one of IT/Tech company CEO in my country.
 
 ## Task Lists
 In the words of **Casey Neistat**:
