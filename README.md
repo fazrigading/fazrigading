@@ -11,7 +11,7 @@
 In the words of **Casey Neistat**:
 > _"You can't score without a goal."_
 - [x] Complete at least 6 quests in #JuaraGCP 16-26 September 2021
-- [x] Achieve GPA >3.8 this semester 
+- [x] Achieve GPA >3.8 in 4th semester 
 - [ ] Learn Neural Network
 - [ ] Learn Computer Vision
 - [ ] Learn Digital Image Processing
