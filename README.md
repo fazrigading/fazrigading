@@ -18,7 +18,7 @@ In the words of **Casey Neistat**:
 
 ## Focuses
 - 🔭 I’m currently working on developing myself as an Informatics student in Mulawarman University, Indonesia.
-- 🌱 I’m currently learning Data Science and Machine Learning with GCP. Still working on Python, C++, Java, and R languages.
+- 🌱 I’m currently learning Data Science and Machine Learning. Still working on Python, C++, Java, and R languages.
 
 ## 📫 How to reach me:
 - [Email](mailto:fazrigading@gmail.com "Reach me via Email")
