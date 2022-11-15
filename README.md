@@ -7,13 +7,13 @@
 
 <p align="center">
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fazrigading&show_icons=true&locale=en" alt="fazrigading" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fazrigading&show_icons=true&locale=en&theme=dark" alt="fazrigading" />
   &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazrigading&" alt="fazrigading" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazrigading&theme=dark&show_icons=true" alt="fazrigading" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazrigading&show_icons=true&locale=en&layout=compact" alt="fazrigading" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazrigading&theme=dark&show_icons=true&locale=en&layout=compact" alt="fazrigading" />
 </p>
 
 ## Task Lists
