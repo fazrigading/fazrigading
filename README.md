@@ -33,9 +33,9 @@
 
 - ⚡ Fun fact **I like design, a lot.**
 
-<h3 align="left">Connect with me:</h3>
+## Let's Connect
 <p align="left">
-  <h4 align="left">Socials:</h4>
+  <h3 align="left">Socials:</h3>
   <a href="https://linkedin.com/in/fazrigading" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazrigading" height="30" width="40" />
   </a>
@@ -52,7 +52,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fazrigading" height="30" width="40" />
   </a>
   
-  <h4 align="left">Coding Community & Projects:</h4>
+  <h3 align="left">Coding Community & Projects:</h3>
   <a href="https://stackoverflow.com/users/14662592" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14662592" height="30" width="40" />
   </a>
@@ -69,7 +69,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fazrigading/profile" height="30" width="40" />
   </a>
 
-  <h4 align="left">Design Community:</h4>
+  <h3 align="left">Design Community:</h3>
   <a href="https://dribbble.com/fazrigading" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="fazrigading" height="30" width="40" />
   </a>
@@ -84,7 +84,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fazrigading" height="30" width="40" />
   </a>
   
-  <h4 align="left">Competitive Programming:</h4>
+  <h3 align="left">Competitive Programming:</h3>
   <a href="https://www.codechef.com/users/fazrigading" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fazrigading" height="30" width="40" />
   </a>
@@ -112,9 +112,9 @@
   </a> 
 </p> 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> 
-  <h4 align="left">Well-Learned:</h4>
+  <h3 align="left">Well-Learned:</h3>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
@@ -129,7 +129,7 @@
   </a>
   <br>
 
-  <h4 align="left">Currently Learning:</h4>
+  <h3 align="left">Currently Learning:</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -150,8 +150,8 @@
   </a> 
   <br>
 
-  <h4 align="left">Planned to Learn:</h4>
-  <h5 align="left">Programming Language:</h5>
+  <h3 align="left">Planned to Learn:</h3>
+  <h4 align="left">Programming Language:</h4>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
   </a>
@@ -171,7 +171,7 @@
     <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
   </a> 
 
-  <h5 align="left">Artificial Intelligence:</h5>
+  <h4 align="left">Artificial Intelligence:</h4>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
@@ -194,7 +194,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
 
-  <h5 align="left">Mobile Dev:</h5>
+  <h4 align="left">Mobile Dev:</h4>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
@@ -205,7 +205,7 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a> 
 
-  <h5 align="left">Frontend Dev:</h5>
+  <h4 align="left">Frontend Dev:</h4>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -228,12 +228,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
   </a> 
 
-  <h5 align="left">Backend Dev:</h5>
+  <h4 align="left">Backend Dev:</h4>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
 
-  <h5 align="left">Framework:</h5>  
+  <h4 align="left">Framework:</h4>  
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
   </a> 
@@ -253,7 +253,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
   </a> 
 
-  <h5 align="left">Devops:</h5>
+  <h4 align="left">Devops:</h4>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
   </a> 
@@ -267,7 +267,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
 
-  <h5 align="left">BaaS:</h5>
+  <h4 align="left">BaaS:</h4>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
@@ -275,7 +275,7 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
 
-  <h5 align="left">Software:</h5>
+  <h4 align="left">Software:</h4>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a> 
@@ -283,7 +283,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 
-  <h5 align="left">Game Engine:</h5>
+  <h4 align="left">Game Engine:</h4>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
@@ -291,7 +291,7 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
   </a>
 
-  <h5 align="left">Database:</h5>
+  <h4 align="left">Database:</h4>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a> 
@@ -302,7 +302,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 
-  <h5 align="left">Other:</h5>
+  <h4 align="left">Other:</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -322,7 +322,7 @@
   <br>
 </p>
 
-<h3 align="left">Support:</h3>
+## Support:
 <p>
   <a href="https://www.buymeacoffee.com/fazrigading">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fazrigading" />
