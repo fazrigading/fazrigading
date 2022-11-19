@@ -36,7 +36,7 @@
 
 - 🔭 I’m currently working on [Playstation Game Store](https://github.com/fazrigading/playstation-game-store)
 
-- 🌱 I’m currently learning **C#, TensorFlow, OpenCV, Kubernetes, React, Bootstrap, and Unity**
+- 🌱 I’m currently learning <a href="##Currently Learning">some programming languages</a>.
 
 - 💬 Ask me about **C, C++, Python, Illustrator, Figma, Photoshop**
 
@@ -252,7 +252,6 @@
    <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
   </a> 
-  <br>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
