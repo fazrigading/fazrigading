@@ -331,4 +331,7 @@
   <a href="https://ko-fi.com/fazrigading"> 
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fazrigading" />
   </a>
+  <a href="https://saweria.co/fazrigading"> 
+    <img align="left" src="https://pustakabukubekas.files.wordpress.com/2021/09/sawer.png" height="50" alt="fazrigading (Indonesian E-Wallet)" />
+  </a>
 </p>
