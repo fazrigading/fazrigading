@@ -43,7 +43,7 @@
   <tr>
     <td class="tg-0pky">Socials</td>
     <td class="tg-0pky">
-      <a href="https:/g.dev/gading" target="blank">
+      <a href="https://g.dev/gading" target="blank">
         <img align="center" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="fazrigading" height="30"/>
       </a>
       <a href="https://linkedin.com/in/fazrigading" target="blank">
