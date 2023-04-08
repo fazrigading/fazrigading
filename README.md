@@ -199,12 +199,15 @@
       </a> 
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td>Planned to Learn</td>
     <td>
       <div align="left">
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
       </a> 
       <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
@@ -218,12 +221,7 @@
       <a href="https://golang.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
       </a> 
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-      </a> 
-      <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
-      </a> 
+      
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
       </a> 
@@ -231,6 +229,7 @@
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
       </a>
       </div>
+      
       <br>
       <div align="left">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -345,7 +344,7 @@
       </a> 
       </div>
     </td>
-  </tr>
+  </tr> -->
 </tbody>
 </table>
 
