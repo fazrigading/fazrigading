@@ -73,7 +73,7 @@
       <a href="https://dev.to/fazrigading" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fazrigading" height="30" width="40" />
       </a>
-      <a href="https://codesandbox.com/fazrigading" target="blank">
+      <a href="https://codesandbox.io/u/fazrigading" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fazrigading" height="30" width="40" />
       </a>
       <a href="https://codepen.io/fazrigading" target="blank">
