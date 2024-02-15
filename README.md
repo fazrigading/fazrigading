@@ -56,12 +56,6 @@
       <a href="https://www.youtube.com/c/fazrigading" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fazrigading" height="30" width="40" />
       </a>
-      <a href="https://fb.com/fazrigading" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fazrigading" height="30" width="40" />
-      </a>
-      <a href="https://twitch.com/gad1ng" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="fazrigading" height="30" width="40" />
-      </a>
     </td>
   </tr>
   <tr>
