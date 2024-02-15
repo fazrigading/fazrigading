@@ -152,7 +152,7 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
       </a> 
-      Artificial Intelligence Tools:
+      <br>Artificial Intelligence Tools:
       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
       </a> 
