@@ -343,6 +343,7 @@
 </tbody>
 </table>
 
+<!--
 ## Support:
 <p>
   <a href="https://www.buymeacoffee.com/fazrigading">
@@ -354,4 +355,5 @@
   <a href="https://saweria.co/fazrigading"> 
     <img align="left" src="https://pustakabukubekas.files.wordpress.com/2021/09/sawer.png" height="50" alt="fazrigading (Indonesian E-Wallet)" />
   </a>
-</p>
+</p> 
+-->
