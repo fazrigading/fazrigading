@@ -21,13 +21,13 @@
 
 - 🎓 I’m currently developing myself as an Informatics student in Mulawarman University, Indonesia.
 
-- 🔭 I’m currently working on [Bangkit Academy 2023](https://registration.bangkit.academy/)
+- 🔭 I’m currently working on [Bangkit Academy 2024](https://registration.bangkit.academy/) as a Machine Learning Mentor
 
 - 🌱 I’m currently learning Machine Learning Specialization.
 
 - 📫 Email me [here.](mailto:fazrigading@gmail.com)
 
-- ⚡ Fun fact **I like design & UI UX.**
+- ⚡ Fun fact, **I love design & UI UX.**
 
 ## Let's Connect
 <table class="tg">
