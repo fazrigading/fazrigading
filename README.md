@@ -21,7 +21,7 @@
 
 - 🎓 I’m currently developing myself as an Informatics student in Mulawarman University, Indonesia.
 
-- 🔭 I’m currently working on [Bangkit Academy 2024](https://registration.bangkit.academy/) as a Machine Learning Mentor
+- 🔭 I’m currently working on my thesis.
 
 - 🌱 I’m currently learning Machine Learning Specialization.
 
