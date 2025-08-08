@@ -19,9 +19,9 @@
 
 ## Focuses
 
-- 🎓 I’m currently developing myself as an Informatics student in Mulawarman University, Indonesia.
+- 🎓 I have graduated from Informatics (Computer Science) in Mulawarman University, Indonesia.
 
-- 🔭 I’m currently working on my thesis.
+- 🔭 I’m currently writing research on object detection and instance segmentation.
 
 - 🌱 I’m currently learning Machine Learning Specialization.
 
