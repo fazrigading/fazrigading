@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently writing research on object detection and instance segmentation.
 
-- 🌱 I’m currently learning Machine Learning Specialization.
+- 🌱 I’m currently learning MCP.
 
 - 📫 Email me [here.](mailto:fazrigading@gmail.com)
 
