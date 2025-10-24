@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, my name's Gading</h1>
-<h3 align="center">A passionate developer & UI designer from Borneo</h3>
+<h3 align="center">I am an AI developer specalized in Computer Vision</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading" /> </p>
 
@@ -21,9 +21,9 @@
 
 - 🎓 I have graduated from Informatics (Computer Science) in Mulawarman University, Indonesia.
 
-- 🔭 I’m currently writing research on object detection and instance segmentation.
+- 🔭 I’m currently writing researches on object detection and instance segmentation for Scopus Q2 and Q3 journals.
 
-- 🌱 I’m currently learning MCP.
+- 🌱 I’m currently learning MCP, vLLM, and such.
 
 - 📫 Email me [here.](mailto:fazrigading@gmail.com)
 
