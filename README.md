@@ -32,13 +32,13 @@ I'm developing myself as an AI Engineer/Developer. Currently learning: MCP, vLLM
   <tr>
     <td>Programming Languages</td>
     <td>
-        <img src="https://img.shields.io/badge/python-3670A0?style=flat&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> 
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"> 
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&amp;logo=c&amp;logoColor=white" alt="C"> 
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&amp;logo=r&amp;logoColor=white" alt="R"> 
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> 
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"> 
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
+        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&amp;logo=c&amp;logoColor=white" alt="C"> 
+        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&amp;logo=r&amp;logoColor=white" alt="R"> 
         <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat&amp;logo=p5.js&amp;logoColor=FFFFFF" alt="P5js">
     </td>
   </tr>
@@ -63,18 +63,18 @@ I'm developing myself as an AI Engineer/Developer. Currently learning: MCP, vLLM
     <td>
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch"> 
         <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=white" alt="nVIDIA"> 
-        <img src="https://img.shields.io/badge/cuda-000000.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=green" alt="cuda"> 
-        <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"> 
+        <img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=green" alt="cuda"> 
+        <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"> 
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"> 
         <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&amp;logo=Keras&amp;logoColor=white" alt="Keras"> 
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&amp;logo=numpy&amp;logoColor=white" alt="NumPy"> 
+        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&amp;logo=pandas&amp;logoColor=white" alt="Pandas"> 
+        <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&amp;logo=numpy&amp;logoColor=white" alt="NumPy"> 
         <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib"> 
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&amp;logo=pandas&amp;logoColor=white" alt="Pandas"> 
         <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&amp;logo=scipy&amp;logoColor=%white" alt="Scipy">
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn"> 
+        <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn"> 
         <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"> 
         <img src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black" alt="MLflow"> 
-        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
+        <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
     </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ I'm developing myself as an AI Engineer/Developer. Currently learning: MCP, vLLM
       <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian">
       <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Google Scholar">
       <img src="https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white" alt="Academia">
-      <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX">
+      <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX">
     </td>
   </tr>
   <tr>
@@ -97,17 +97,17 @@ I'm developing myself as an AI Engineer/Developer. Currently learning: MCP, vLLM
       <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"> 
       <img src="https://img.shields.io/badge/Next-black?style=flat&amp;logo=next.js&amp;logoColor=white" alt="Next.js"> 
       <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"> 
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"> 
-      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&amp;logo=vite&amp;logoColor=white" alt="Vite"> 
-      <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&amp;logo=flask&amp;logoColor=white" alt="Flask"> 
+      <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"> 
+      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&amp;logo=vite&amp;logoColor=white" alt="Vite"> 
+      <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&amp;logo=flask&amp;logoColor=white" alt="Flask"> 
       <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&amp;logo=fastapi" alt="FastAPI"> 
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"> 
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> 
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> 
       <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"> 
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> 
+      <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> 
       <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"> 
       <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS"> 
-      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&amp;logo=markdown&amp;logoColor=white" alt="Markdown"> 
+      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&amp;logo=markdown&amp;logoColor=white" alt="Markdown"> 
     </td>
   </tr>
   <tr>
@@ -179,16 +179,14 @@ I'm developing myself as an AI Engineer/Developer. Currently learning: MCP, vLLM
     </td>
   </tr>
   <tr>
-    <td>Design Tools</td>
+    <td>Design & Photography Tools</td>
     <td>
       <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&amp;logo=adobe%20photoshop&amp;logoColor=white" alt="Adobe Photoshop"> 
       <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&amp;logo=Adobe%20Illustrator&amp;logoColor=white" alt="Adobe Illustrator"> 
-      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&amp;logo=Adobe%20Lightroom&amp;logoColor=white" alt="Adobe Lightroom"> 
-      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=white" alt="Adobe Premiere Pro"> 
       <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"> 
       <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" alt="Canva"> 
+      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&amp;logo=Adobe%20Lightroom&amp;logoColor=white" alt="Adobe Lightroom"> 
       <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&amp;logo=Adobe%20XD&amp;logoColor=#FF61F6" alt="Adobe XD"> 
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&amp;logo=dribbble&amp;logoColor=white" alt="Dribbble">
     </td>
   </tr>
   <tr>
@@ -227,4 +225,3 @@ I'm developing myself as an AI Engineer/Developer. Currently learning: MCP, vLLM
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fazrigading) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fazrigading) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fazrigading) 
--->
