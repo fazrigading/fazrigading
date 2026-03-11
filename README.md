@@ -213,9 +213,9 @@ I'm developing myself as an AI Engineer/Developer. Currently learning: MCP, vLLM
 </tbody></table>
 
 ## 📊 GitHub Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=fazrigading&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=fazrigading&theme=blue_navy&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazrigading&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+![fazrigading's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fazrigading&show_icons=true&theme=transparent&include_all_commits=true)
+![fazrigading's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazrigading&theme=transparent&include_all_commits=true&layout=donut)
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fazrigading&theme=gitdimmed)
