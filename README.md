@@ -1,15 +1,13 @@
-<h1 align="center">Welcome 👋, my name's Gading</h1>
+<h1 align="center">Welcome 👋</h1>
 <h3 align="center">I am an AI engineer, developer, and researcher. Specialized in Computer Vision</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading" /> </p>
 
 ## 💫 About Me
 
-My name is Fazri R. N. Gading, expertise in object detection, image processing, and deep learning, specializing in agricultural and industrial automation. Demonstrated success in developing and deploying AI-based detection systems using PyTorch and TensorFlow, achieving high accuracy in visual recognition and plant disease identification tasks.
+My name is Fazri R. N. Gading, expertise in object detection, image processing, and deep learning, specializing in agricultural and industrial automation. Demonstrated success in developing and deploying AI-based detection systems using PyTorch and TensorFlow, achieving high accuracy in visual recognition and plant disease identification tasks. I have acquired TensorFlow Developer Certificate and served as a Machine Learning Mentor at Bangkit Academy 2024H1, guiding over 25+ students in model training, optimization, and real-world deployment. My research contributions focus on computer vision, digital image processing, and neural network optimization, emphasizing efficient architectures and data-driven model refinement.
 
-Holds a TensorFlow Developer Certificate and served as a Machine Learning Mentor at Bangkit Academy 2024H1, guiding over 25+ students in model training, optimization, and real-world deployment. Research contributions focus on computer vision, digital image processing, and neural network optimization, emphasizing efficient architectures and data-driven model refinement.
-
-Earned a Bachelor of Computer Science (B.CS.) from Universitas Mulawarman with a strong academic record and research background in applied AI. Recognized for analytical precision, problem-solving creativity, and collaborative communication, integrating technical rigor with strategic insight to advance innovation in visual computing and intelligent automation.
+Earned a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarman with a strong academic record and research background in applied AI. Recognized for analytical precision, problem-solving creativity, and collaborative communication, integrating technical rigor with strategic insight to advance innovation in visual computing and intelligent automation.
 
 Currently, I am learning MCP, vLLM, LLM Agent Frameworks, RAG, APIs (REST), Prompt Engineering, Multi-agent Systems, MLOps, ML Services, Workflow Automation (n8n), AI Agent Workflows.
 
