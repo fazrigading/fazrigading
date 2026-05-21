@@ -19,7 +19,7 @@ Currently, I am learning MCP, vLLM, LLM Agent Frameworks, RAG, APIs (REST), Prom
 [![Scopus](https://img.shields.io/badge/Scopus-E9711C?logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=60587148700)
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-00629B?logo=ieee)](https://ieeexplore.ieee.org/author/358616784769222)
 [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-cfbe0c?logo=semanticscholar)](https://www.semanticscholar.org/author/Fazri-Rahmad-Nor-Gading/2301899322)
-[![Web of Science](https://img.shields.io/badge/Web_of_Science-5A2A82?logo=clarivate&logoColor=white)](https://www.semanticscholar.org/author/Fazri-Rahmad-Nor-Gading/2301899322)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-5A2A82?logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/JQX-1348-2023)
 
 ## 🌐 Socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/fazrigading) 
