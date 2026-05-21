@@ -5,8 +5,21 @@
 
 ## 💫 About Me
 
-I'm developing myself as an AI Engineer/Developer. Currently learning: MCP, vLLM, LLM Agent Frameworks, RAG, APIs (REST), Prompt Engineering, Multi-agent Systems, MLOps, ML Services, Workflow Automation (n8n), AI Agent Workflows.
+My name is Fazri R. N. Gading, expertise in object detection, image processing, and deep learning, specializing in agricultural and industrial automation. Demonstrated success in developing and deploying AI-based detection systems using PyTorch and TensorFlow, achieving high accuracy in visual recognition and plant disease identification tasks.
 
+Holds a TensorFlow Developer Certificate and served as a Machine Learning Mentor at Bangkit Academy 2024H1, guiding over 25+ students in model training, optimization, and real-world deployment. Research contributions focus on computer vision, digital image processing, and neural network optimization, emphasizing efficient architectures and data-driven model refinement.
+
+Earned a Bachelor of Computer Science (B.CS.) from Universitas Mulawarman with a strong academic record and research background in applied AI. Recognized for analytical precision, problem-solving creativity, and collaborative communication, integrating technical rigor with strategic insight to advance innovation in visual computing and intelligent automation.
+
+Currently, I am learning MCP, vLLM, LLM Agent Frameworks, RAG, APIs (REST), Prompt Engineering, Multi-agent Systems, MLOps, ML Services, Workflow Automation (n8n), AI Agent Workflows.
+
+## 🔬 Scholarly Profiles
+[![ORCID](https://img.shields.io/badge/ORCID-FFFFFF?logo=orcid)](https://orcid.org/0009-0000-3466-1286)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cKhDGZAAAAAJ&hl=en)
+[![Scopus](https://img.shields.io/badge/Scopus-E9711C?logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=60587148700)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-00629B?logo=ieee)](https://ieeexplore.ieee.org/author/358616784769222)
+[![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-cfbe0c?logo=semanticscholar)](https://www.semanticscholar.org/author/Fazri-Rahmad-Nor-Gading/2301899322)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-5A2A82?logo=clarivate&logoColor=white)](https://www.semanticscholar.org/author/Fazri-Rahmad-Nor-Gading/2301899322)
 
 ## 🌐 Socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/fazrigading) 
