@@ -3,15 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading" /> </p>
 
-## 💫 About Me
+I am a Computer Vision Specialist and AI Engineer specializing in object detection, image processing, and deep learning, with a core focus on agricultural and industrial automation. I build and deploy robust, real-world AI detection systems using PyTorch and TensorFlow, specifically optimizing models for high-accuracy visual recognition and plant disease identification.
 
-My name is Fazri R. N. Gading, expertise in object detection, image processing, and deep learning, specializing in agricultural and industrial automation. Demonstrated success in developing and deploying AI-based detection systems using PyTorch and TensorFlow, achieving high accuracy in visual recognition and plant disease identification tasks. 
+## 🚀 What I Do
 
-I have acquired TensorFlow Developer Certificate and served as a Machine Learning Mentor at Bangkit Academy 2024H1, guiding over 25+ students in model training, optimization, and real-world deployment. My research contributions focus on computer vision, digital image processing, and neural network optimization.
+* **Deep Learning & Computer Vision:** Designing and fine-tuning state-of-the-art object detection workflows, particularly focusing on lightweight YOLO architectures for edge deployment.
+* **Agricultural AI:** Engineering systems for automated crop counting, disease classification, and precision yield estimation.
+* **Mentorship & Community:** Certified TensorFlow Developer and former Machine Learning Mentor at Bangkit Academy 2024H1, where I guided over 25 students through model training, optimization, and production deployment. I also served as a Laboratory Teaching Assistant at Mulawarman University, supporting undergraduate courses in AI, Machine Learning, Data Structures & Algorithms, and OOP.
 
-Earned a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarman with a strong academic record and research background in applied AI. Recognized for analytical precision, problem-solving creativity, and collaborative communication, integrating technical rigor with strategic insight to advance innovation in visual computing and intelligent automation.
+## 📚 Research Background
 
-Currently, I am learning MCP, vLLM, LLM Agent Frameworks, RAG, APIs (REST), Prompt Engineering, Multi-agent Systems, MLOps, ML Services, Workflow Automation (n8n), AI Agent Workflows.
+I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarman. Beyond engineering, I actively contribute to academic research in applied AI. I have co-authored multiple Scopus-indexed papers, including Q1 journal submissions in *Smart Agricultural Technology* and *Artificial Intelligence in Agriculture*.
 
 ## 🔬 Scholarly Profiles
 [![ORCID](https://img.shields.io/badge/ORCID-FFFFFF?logo=orcid)](https://orcid.org/0009-0000-3466-1286)
