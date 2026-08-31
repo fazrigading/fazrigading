@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading" /> </p>
 
-I am a Computer Vision Specialist and AI Engineer specializing in object detection, image processing, and deep learning, with a core focus on agricultural and industrial automation. I build and deploy robust, real-world AI detection systems using PyTorch and TensorFlow, specifically optimizing models for high-accuracy visual recognition and plant disease identification.
+I am a Computer Vision Specialist and AI Engineer specializing in object detection, image processing, and deep learning, with a core focus on agricultural and industrial automation. I build and deploy robust, real-world AI detection systems using PyTorch and TensorFlow, specifically optimizing models for high-accuracy visual recognition and plant disease identification. I also like to tinker my software and hardware, creating tools for my productivity. My hobby is playing video games and sometimes I'd like to develop a game myself.
 
 ## 🚀 What I Do
 
@@ -120,8 +120,9 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
       <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> 
       <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"> 
       <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> 
-      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"> 
-      <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS"> 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&amp;logoColor=black&amp;style=flat" alt="JavaScript">
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&amp;logoColor=white" alt="HTML"> 
+      <img src="https://img.shields.io/badge/CSS-639?logo=css&amp;logoColor=fff" alt="CSS"> 
       <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&amp;logo=markdown&amp;logoColor=white" alt="Markdown"> 
     </td>
   </tr>
@@ -129,41 +130,41 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
     <td>Mobile Development</td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&amp;logo=Flutter&amp;logoColor=white" alt="Flutter"> 
-      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&amp;logo=dart&amp;logoColor=white" alt="Dart"> 
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&amp;logo=Dart&amp;logoColor=white" alt="Dart"> 
       <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&amp;logo=Gradle&amp;logoColor=white" alt="Gradle">
     </td>
   </tr>
   <tr>
     <td>Project Utilities</td>
     <td>
-      <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+      <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions">
       <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&amp;logo=npm&amp;logoColor=white" alt="NPM"> 
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker"> 
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&amp;logo=git&amp;logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker"> 
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&amp;logo=git&amp;logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&amp;logo=postman&amp;logoColor=white" alt="Postman"> 
-      <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat&amp;logo=apache&amp;logoColor=white" alt="Apache"> 
+      <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&amp;logo=apache&amp;logoColor=white" alt="Apache"> 
       <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&amp;logo=notion&amp;logoColor=white" alt="Notion"> 
       <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&amp;logo=Trello&amp;logoColor=white" alt="Trello"> 
       <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power Bi"> 
-      <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat&amp;logo=selenium&amp;logoColor=white" alt="Selenium">
+      <img src="https://img.shields.io/badge/Selenium-%43B02A?style=flat&amp;logo=selenium&amp;logoColor=white" alt="Selenium">
     </td>
   </tr>
   <tr>
     <td>Cloud Services</td>
     <td>
-      <img src="https://img.shields.io/badge/firebase-a08021?style=flat&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase">
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> 
+      <img src="https://img.shields.io/badge/Firebase-a08021?style=flat&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase">
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> 
       <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud">
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"> 
-      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure"> 
-      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify">
+      <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure"> 
+      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify">
     </td>
   </tr>
   <tr>
     <td>Game Development</td>
     <td>
-      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&amp;logo=unity&amp;logoColor=white" alt="Unity"> 
+      <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&amp;logo=unity&amp;logoColor=white" alt="Unity"> 
       <img src="https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff" alt="Vulkan">
       <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff" alt="RenPy">
       <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&amp;style=flat" alt="OpenGL">
