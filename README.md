@@ -8,9 +8,8 @@ I specialize in object detection, image processing, and deep learning, with a co
 ## 🚀 What I Do
 
 * **Deep Learning & Computer Vision:** Designing and fine-tuning state-of-the-art object detection workflows, particularly focusing on lightweight YOLO architectures for edge deployment.
-* **Agricultural Automation:** Engineering systems for automated crop counting, disease classification, and precision yield estimation.
+* **Agricultural and Industrial Automation:** Engineering systems for automated crop counting, disease classification, and precision yield estimation. Implementing AI-driven quality control and defect detection systems in manufacturing processes.
 * **Medical Imaging Advancement:** Developing AI models for early disease detection and medical image analysis, enhancing diagnostic accuracy and efficiency.
-* **Industrial Automation:** Implementing AI-driven quality control and defect detection systems in manufacturing processes.
 * **Mentorship & Community:** Certified TensorFlow Developer and former Machine Learning Mentor at `Bangkit Academy 2024 by Google, GoTo and Traveloka`, where I guided over 25 students through model training, optimization, and production deployment. 
 * **Professors' Assistant:** Served as a technical/laboratory lecturer at Mulawarman University, supporting undergraduate courses in AI, Machine Learning, Data Structures & Algorithms, and Object-Oriented Programming.
 
@@ -98,6 +97,32 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
         <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
     </td>
   </tr>
+  <tr>
+    <td>Currently Learning</td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="LangChain"> 
+      <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"> 
+      <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go"> 
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"> 
+      <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"> 
+      <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" alt="Ruby"> 
+      <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?&logo=scala&logoColor=white" alt="Scala"> 
+      <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white" alt="Tauri"> 
+      <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"> 
+      <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot"> 
+      <img src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff" alt="GameMaker">
+    </td>
+  </tr>
+</tbody></table>
+
+<details>
+<summary>Click here to see more</summary>
+
+<table><thead>
+  <tr>
+    <th><b>More Tech Stack</b></th>
+    <th><b>Language/Tools/Frameworks</b></th>
+  </tr></thead>
   <tr>
     <td>Research Tools</td>
     <td>
@@ -230,33 +255,20 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
   <tr>
     <td>Learn Code Here</td>
     <td>
-      <img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff" alt="Coursera">
-      <img src="https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white" alt="Codecademy">
-      <img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff" alt="CodeChef">
-      <img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff" alt="Codewars">
-      <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
-      <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff" alt="Khan Academy">
-      <img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff" alt="W3Schools">
-    </td>
-  </tr>
-  <tr>
-    <td>Currently Learning</td>
-    <td>
-      <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="LangChain"> 
-      <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"> 
-      <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go"> 
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"> 
-      <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" alt="Ruby"> 
-      <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?&logo=scala&logoColor=white" alt="Scala"> 
-      <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white" alt="Tauri"> 
-      <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"> 
-      <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot"> 
-      <img src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff" alt="GameMaker">
+      <a href="https://www.coursera.org/"><img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff" alt="Coursera"></a>
+      <a href="https://www.codecademy.com/"><img src="https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white" alt="Codecademy"></a>
+      <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
+      <a href="https://www.codechef.com/"><img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff" alt="CodeChef"></a>
+      <a href="https://www.codewars.com/"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff" alt="Codewars"></a>
+      <a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp"></a>
+      <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+      <a href="https://www.khanacademy.org/"><img src="https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff" alt="Khan Academy"></a>
+      <a href="https://www.w3schools.com/"><img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff" alt="W3Schools"></a>
     </td>
   </tr>
 </tbody></table>
+
+</details>
 
 ## 📊 GitHub Stats and Trophies 🏆 
 
@@ -264,6 +276,9 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fazrigading&theme=transparent" alt="fazrigading's GitHub Streak"/></a>
 </div>
 
+<details>
+<summary>Click here to see more</summary>
+  
 <div align="center">
   <a href="https://github.com/fazrigading/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=fazrigading&show_icons=true&theme=transparent&include_all_commits=true" alt="fazrigading's GitHub Statistics"/></a>
 </div>
@@ -275,6 +290,8 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-unserori.vercel.app/?username=fazrigading&theme=gitdimmed&row=3&column=3" alt="fazrigading's GitHub Trophies"/></a>
 </div>
+
+</details>
 
 ## 💰 Donation
 
