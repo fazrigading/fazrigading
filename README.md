@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my Profile ! 👋</h1>
-<h3 align="center">Computer Vision Specialist & AI Engineer</h3>
+<h3 align="center">I'm Fazri Gading, a Computer Vision Specialist & AI Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading" /></p>
 
-I am a Computer Vision Specialist and AI Engineer specializing in object detection, image processing, and deep learning, with a core focus on agricultural, medical, and industrial automation. I build and deploy robust, real-world AI detection systems using PyTorch and TensorFlow, specifically optimizing models for high-accuracy visual recognition and plant disease identification. I also like to tinker my software and hardware, creating tools for my productivity. My hobby is playing video games and sometimes I'd like to develop a game myself.
+I specialize in object detection, image processing, and deep learning, with a core focus on agricultural, medical, and industrial automation. I build and deploy robust, real-world AI detection systems using PyTorch and TensorFlow, specifically optimizing models for high-accuracy visual recognition, medical, and plant disease identification. I also like to tinker my software and hardware, creating tools for my productivity. My hobby is playing video games and sometimes I'd like to develop a game myself.
 
 ## 🚀 What I Do
 
@@ -258,35 +258,29 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
   </tr>
 </tbody></table>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats and Trophies 🏆 
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=fazrigading&theme=transparent" alt="fazrigading's GitHub Streak" />
-  </a>
-  <a href="https://github.com/fazrigading/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=fazrigading&show_icons=true&theme=transparent&include_all_commits=true" alt="fazrigading's GitHub Statistics" />
-  </a>
-  <a href="https://github.com/fazrigading/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fazrigading&theme=transparent&include_all_commits=true&layout=donut" alt="fazrigading's GitHub Top Languages" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fazrigading&theme=transparent" alt="fazrigading's GitHub Streak"/></a>
 </div>
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/fazrigading/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=fazrigading&show_icons=true&theme=transparent&include_all_commits=true" alt="fazrigading's GitHub Statistics"/></a>
+</div>
 
-[![fazrigading's GitHub Trophies](https://github-profile-trophy-unserori.vercel.app/?username=fazrigading&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/fazrigading/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fazrigading&theme=transparent&include_all_commits=true&layout=donut" alt="fazrigading's GitHub Top Languages" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-unserori.vercel.app/?username=fazrigading&theme=gitdimmed&row=3&column=3" alt="fazrigading's GitHub Trophies"/></a>
+</div>
 
 ## 💰 Donation
 
 <div align="center">
   <p>If you like my work and want to support me, you can buy me a coffee or donate via PayPal or Ko-Fi.<br>Your support helps me continue creating and sharing content.</p>
-  <a href="https://buymeacoffee.com/fazrigading" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
-  <a href="https://paypal.me/fazrigading" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
-  <a href="https://ko-fi.com/fazrigading" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
-  </a>
+  <a href="https://buymeacoffee.com/fazrigading" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+  <a href="https://paypal.me/fazrigading" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+  <a href="https://ko-fi.com/fazrigading" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/></a>
 </div>
