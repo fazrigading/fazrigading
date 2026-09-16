@@ -293,6 +293,7 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
 
 </details>
 
+<!--
 ## 💰 Donation
 
 <div align="center">
@@ -301,3 +302,4 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
   <a href="https://paypal.me/fazrigading" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
   <a href="https://ko-fi.com/fazrigading" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/></a>
 </div>
+-->
