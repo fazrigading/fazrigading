@@ -47,70 +47,96 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
   </tr></thead>
 <tbody>
   <tr>
-    <td>Programming Languages</td>
+    <td>Systems / Performance</td>
     <td>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> 
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"> 
-        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
-        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&amp;logo=c&amp;logoColor=white" alt="C"> 
-        <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&amp;logo=r&amp;logoColor=white" alt="R"> 
-        <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat&amp;logo=p5.js&amp;logoColor=FFFFFF" alt="P5js"> 
+        <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C%20%C2%B7%20embedded-%2300599C.svg?style=flat&amp;logo=c&amp;logoColor=white" alt="C"></a> 
+        <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++%20%C2%B7%20edge%2Fperf-%2300599C.svg?style=flat&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"></a> 
+        <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"></a> 
+        <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go"></a> 
     </td>
   </tr>
   <tr>
-    <td>Personal Tools</td>
+    <td>Scripting / Data</td>
     <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-      <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff" alt="Fedora"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term" alt="Ghostty"> 
-      <img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" alt="Zsh"> 
-      <img src="https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff" alt="Zen Browser"> 
-      <img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" alt="Zed"> 
-      <img src="https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white" alt="Vivaldi"> 
-      <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white" alt="Firefox"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code"> 
-      <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" alt="Neovim"> 
-      <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor" alt="Cursor"> 
-      <img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"> 
-      <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ"> 
-      <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="PyCharm"> 
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python%20%C2%B7%20CV%2FML-3670A0?style=flat&amp;logo=python&amp;logoColor=ffdd54" alt="Python"></a> 
+        <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20%C2%B7%20stats%2Fresearch-%23276DC3.svg?style=flat&amp;logo=r&amp;logoColor=white" alt="R"></a> 
+        <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" alt="Ruby"></a> 
     </td>
   </tr>
   <tr>
-    <td>AI Frameworks</td>
+    <td>Web</td>
     <td>
-        <img src="https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff" alt="YOLO"> 
-        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch"> 
-        <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=white" alt="nVIDIA"> 
-        <img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=green" alt="cuda"> 
-        <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"> 
-        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"> 
-        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&amp;logo=Keras&amp;logoColor=white" alt="Keras"> 
-        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&amp;logo=pandas&amp;logoColor=white" alt="Pandas"> 
-        <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&amp;logo=numpy&amp;logoColor=white" alt="NumPy"> 
-        <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib"> 
-        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&amp;logo=scipy&amp;logoColor=white" alt="Scipy">
-        <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn"> 
-        <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"> 
-        <img src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black" alt="MLflow"> 
-        <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript%20%C2%B7%20frontend-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"></a> 
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"></a> 
     </td>
   </tr>
   <tr>
-    <td>Currently Learning</td>
+    <td>Enterprise / JVM</td>
     <td>
-      <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="LangChain"> 
-      <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"> 
-      <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go"> 
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"> 
-      <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" alt="Ruby"> 
-      <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?&logo=scala&logoColor=white" alt="Scala"> 
-      <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white" alt="Tauri"> 
-      <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"> 
-      <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot"> 
-      <img src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff" alt="GameMaker">
+        <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java%20%C2%B7%20OOP%2Fteaching-%23ED8B00.svg?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java"></a> 
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"></a> 
+        <a href="https://www.scala-lang.org/"><img src="https://img.shields.io/badge/Scala-%23DC322F.svg?&logo=scala&logoColor=white" alt="Scala"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>OS / Shell</td>
+    <td>
+        <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"></a> 
+        <a href="https://fedoraproject.org/"><img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff" alt="Fedora"></a> 
+        <a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" alt="Zsh"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Editors / IDEs</td>
+    <td>
+        <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" alt="Zed"></a> 
+        <a href="https://code.visualstudio.com/"><img src="https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code"></a> 
+        <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" alt="Neovim"></a> 
+        <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?logo=cursor" alt="Cursor"></a> 
+        <a href="https://netbeans.apache.org/"><img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"></a> 
+        <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ"></a> 
+        <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="PyCharm"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Terminal / Browsers</td>
+    <td>
+        <a href="https://ghostty.org/"><img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term" alt="Ghostty"></a> 
+        <a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff" alt="Zen Browser"></a> 
+        <a href="https://vivaldi.com/"><img src="https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white" alt="Vivaldi"></a> 
+        <a href="https://www.mozilla.org/firefox/"><img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white" alt="Firefox"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Deep Learning</td>
+    <td>
+        <a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff" alt="YOLO"></a> 
+        <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch"></a> 
+        <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"></a> 
+        <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&amp;logo=Keras&amp;logoColor=white" alt="Keras"></a> 
+        <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"></a> 
+        <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="LangChain"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Data / ML</td>
+    <td>
+        <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&amp;logo=pandas&amp;logoColor=white" alt="Pandas"></a> 
+        <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&amp;logo=numpy&amp;logoColor=white" alt="NumPy"></a> 
+        <a href="https://matplotlib.org/"><img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib"></a> 
+        <a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&amp;logo=scipy&amp;logoColor=white" alt="Scipy"></a> 
+        <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn"></a> 
+        <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black" alt="MLflow"></a> 
+        <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Compute / Infra</td>
+    <td>
+        <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=green" alt="cuda"></a> 
+        <a href="https://www.nvidia.com/"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=white" alt="nVIDIA"></a> 
+        <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"></a> 
+        <a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"></a> 
     </td>
   </tr>
 </tbody></table>
@@ -126,147 +152,174 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
   <tr>
     <td>Research Tools</td>
     <td>
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff" alt="Kaggle"> 
-      <img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter"> 
-        <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPi"> 
-      <img src="https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff" alt="Roboflow"> 
-      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab"> 
-      <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"> 
-      <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Google Scholar"> 
-      <img src="https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white" alt="Academia"> 
-      <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX"> 
+        <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff" alt="Kaggle"></a> 
+        <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter"></a> 
+        <a href="https://pypi.org/"><img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPi"></a> 
+        <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff" alt="Roboflow"></a> 
+        <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab"></a> 
+        <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"></a> 
+        <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Google Scholar"></a> 
+        <a href="https://www.academia.edu/"><img src="https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white" alt="Academia"></a> 
+        <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX"></a> 
     </td>
   </tr>
   <tr>
-    <td>Website Development</td>
+    <td>Frontend</td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"> 
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat&amp;logo=next.js&amp;logoColor=white" alt="Next.js"> 
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js"> 
-      <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"> 
-      <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"> 
-      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&amp;logo=vite&amp;logoColor=white" alt="Vite"> 
-      <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&amp;logo=flask&amp;logoColor=white" alt="Flask"> 
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&amp;logo=fastapi" alt="FastAPI"> 
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"> 
-      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> 
-      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"> 
-      <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> 
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&amp;logoColor=black&amp;style=flat" alt="JavaScript"> 
-      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&amp;logoColor=white" alt="HTML"> 
-      <img src="https://img.shields.io/badge/CSS-639?logo=css&amp;logoColor=fff" alt="CSS"> 
-      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP"> 
+        <a href="https://tauri.app/"><img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white" alt="Tauri"></a> 
+        <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"></a> 
+        <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-black?style=flat&amp;logo=next.js&amp;logoColor=white" alt="Next.js"></a> 
+        <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js"></a> 
+        <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"></a> 
+        <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&amp;logo=vite&amp;logoColor=white" alt="Vite"></a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&amp;logoColor=white" alt="HTML"></a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-639?logo=css&amp;logoColor=fff" alt="CSS"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"></a> 
+        <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&amp;logo=flask&amp;logoColor=white" alt="Flask"></a> 
+        <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005571?style=flat&amp;logo=fastapi" alt="FastAPI"></a> 
+        <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP"></a> 
+        <a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&amp;logo=apache&amp;logoColor=white" alt="Apache"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>
+        <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL"></a> 
+        <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"></a> 
     </td>
   </tr>
   <tr>
     <td>Mobile Development</td>
     <td>
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&amp;logo=Flutter&amp;logoColor=white" alt="Flutter"> 
-      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&amp;logo=Dart&amp;logoColor=white" alt="Dart"> 
-      <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&amp;logo=Gradle&amp;logoColor=white" alt="Gradle"> 
+        <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&amp;logo=Flutter&amp;logoColor=white" alt="Flutter"></a> 
+        <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&amp;logo=Dart&amp;logoColor=white" alt="Dart"></a> 
+        <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&amp;logo=Gradle&amp;logoColor=white" alt="Gradle"></a> 
     </td>
   </tr>
   <tr>
-    <td>Project Utilities</td>
+    <td>VCS / CI</td>
     <td>
-      <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub"> 
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"> 
-      <img src="https://img.shields.io/badge/GitHub_Pages-181717?logo=github-pages&logoColor=white" alt="GitHub Pages"> 
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&amp;logo=git&amp;logoColor=white" alt="Git"> 
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab"> 
-      <img src="https://img.shields.io/badge/uv-261230.svg?logo=uv&logoColor=#de5fe9" alt="uv"> 
-      <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff" alt="Homebrew"> 
-      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&amp;logo=npm&amp;logoColor=white" alt="NPM"> 
-      <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" alt="NuGet"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff" alt="Playwright"> 
-      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker"> 
-      <img src="https://img.shields.io/badge/Podman-%23892CA0.svg?style=flat&amp;logo=podman&amp;logoColor=white" alt="Podman"> 
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&amp;logo=postman&amp;logoColor=white" alt="Postman"> 
-      <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&amp;logo=apache&amp;logoColor=white" alt="Apache"> 
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&amp;logo=notion&amp;logoColor=white" alt="Notion"> 
-      <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&amp;logo=Trello&amp;logoColor=white" alt="Trello"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power Bi"> 
-      <img src="https://img.shields.io/badge/Selenium-%43B02A?style=flat&amp;logo=selenium&amp;logoColor=white" alt="Selenium">
+        <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub"></a> 
+        <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"></a> 
+        <a href="https://pages.github.com/"><img src="https://img.shields.io/badge/GitHub_Pages-181717?logo=github-pages&logoColor=white" alt="GitHub Pages"></a> 
+        <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&amp;logo=git&amp;logoColor=white" alt="Git"></a> 
+        <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Package Managers</td>
+    <td>
+        <a href="https://docs.astral.sh/uv/"><img src="https://img.shields.io/badge/uv-261230.svg?logo=uv&logoColor=#de5fe9" alt="uv"></a> 
+        <a href="https://brew.sh/"><img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff" alt="Homebrew"></a> 
+        <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&amp;logo=npm&amp;logoColor=white" alt="NPM"></a> 
+        <a href="https://www.nuget.org/"><img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" alt="NuGet"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Containers</td>
+    <td>
+        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker"></a> 
+        <a href="https://podman.io/"><img src="https://img.shields.io/badge/Podman-%23892CA0.svg?style=flat&amp;logo=podman&amp;logoColor=white" alt="Podman"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Testing / API</td>
+    <td>
+        <a href="https://playwright.dev/"><img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff" alt="Playwright"></a> 
+        <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&amp;logo=postman&amp;logoColor=white" alt="Postman"></a> 
+        <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-%43B02A?style=flat&amp;logo=selenium&amp;logoColor=white" alt="Selenium"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>PM / Org</td>
+    <td>
+        <a href="https://www.notion.com/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&amp;logo=notion&amp;logoColor=white" alt="Notion"></a> 
+        <a href="https://trello.com/"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&amp;logo=Trello&amp;logoColor=white" alt="Trello"></a> 
+        <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power Bi"></a> 
     </td>
   </tr>
   <tr>
     <td>Cloud Services</td>
     <td>
-      <img src="https://img.shields.io/badge/Firebase-a08021?style=flat&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase"> 
-      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> 
-      <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Azure-0072C6?logo=msazure&logoColor=white" alt="Microsoft Azure"> 
-      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"> 
+        <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-a08021?style=flat&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase"></a> 
+        <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Vercel"></a> 
+        <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud"></a> 
+        <a href="https://aws.amazon.com/"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS"></a> 
+        <a href="https://azure.microsoft.com/"><img src="https://custom-icon-badges.demolab.com/badge/Azure-0072C6?logo=msazure&logoColor=white" alt="Microsoft Azure"></a> 
+        <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"></a> 
     </td>
   </tr>
   <tr>
     <td>Game Development</td>
     <td>
-      <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&amp;logo=unity&amp;logoColor=white" alt="Unity"> 
-      <img src="https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff" alt="Vulkan"> 
-      <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff" alt="RenPy"> 
-      <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&amp;style=flat" alt="OpenGL"> 
-    </td>
-  </tr>
-  <tr>
-    <td>Gaming Services</td>
-    <td>
-      <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&amp;logo=steam&amp;logoColor=white" alt="Steam"> 
-      <img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="Epic Games"> 
-      <img src="https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff" alt="GOG.com"> 
-      <img src="https://img.shields.io/badge/Uplay-black?logo=ubisoft" alt="Uplay"> 
-      <img src="https://img.shields.io/badge/Riot_Games-D32936.svg?style=flat&amp;logo=riotgames&amp;logoColor=white" alt="Riot Games"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff" alt="Xbox"> 
-      <img src="https://img.shields.io/badge/Origin-F56C2D?logo=origin&logoColor=fff" alt="Origin"> 
+        <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&amp;logo=unity&amp;logoColor=white" alt="Unity"></a> 
+        <a href="https://www.vulkan.org/"><img src="https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff" alt="Vulkan"></a> 
+        <a href="https://www.renpy.org/"><img src="https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff" alt="RenPy"></a> 
+        <a href="https://www.opengl.org/"><img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&amp;style=flat" alt="OpenGL"></a> 
+        <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot"></a> 
+        <a href="https://gamemaker.io/"><img src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff" alt="GameMaker"></a> 
     </td>
   </tr>
   <tr>
     <td>GenAI Assistants</td>
     <td>
-      <img src="https://custom-icon-badges.demolab.com/badge/OpenCode-%23000000?logo=opencode&logoColor=ffffff" alt="OpenCode"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/CommandCode-ffffff?logo=commandcode" alt="CommandCode"> 
-      <img alt="Meta" src="https://custom-icon-badges.demolab.com/badge/Meta-222226?logo=meta&logoColor=0080f9">
-      <img alt="Kimi" src="https://custom-icon-badges.demolab.com/badge/Kimi-121212?logo=kimi&logoColor=ffffff">
-      <img alt="Z.ai" src="https://custom-icon-badges.demolab.com/badge/GLM-000000?logo=z.ai&logoColor=ffffff">
-      <img alt="Xiaomi AI" src="https://custom-icon-badges.demolab.com/badge/MiMo-orange?logo=xiaomi&logoColor=ffffff"> 
-      <img alt="MiniMax" src="https://custom-icon-badges.demolab.com/badge/MiniMax-ffffff?logo=minimax">
-      <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude"> 
-      <img src="https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-00A67E?logo=openai&logoColor=fff" alt="ChatGPT">
-      <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="DeepSeek"> 
-      <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="Github Copilot"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff" alt="Qwen"> 
-      <img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff" alt="Perplexity"> 
-      <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" alt="Ollama"> 
+        <a href="https://opencode.ai/"><img src="https://custom-icon-badges.demolab.com/badge/OpenCode-%23000000?logo=opencode&logoColor=ffffff" alt="OpenCode"></a> 
+        <a href="https://commandcode.ai/"><img src="https://custom-icon-badges.demolab.com/badge/CommandCode-ffffff?logo=commandcode" alt="CommandCode"></a> 
+        <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude"></a> 
+        <a href="https://www.meta.ai/"><img alt="Meta" src="https://custom-icon-badges.demolab.com/badge/Meta-222226?logo=meta&logoColor=0080f9"></a> 
+        <a href="https://z.ai/"><img alt="Z.ai" src="https://custom-icon-badges.demolab.com/badge/GLM-000000?logo=z.ai&logoColor=ffffff"></a> 
+        <a href="https://www.kimi.com/"><img alt="Kimi" src="https://custom-icon-badges.demolab.com/badge/Kimi-121212?logo=kimi&logoColor=ffffff"></a> 
+        <a href="https://github.com/XiaomiMiMo/MiMo"><img alt="Xiaomi AI" src="https://custom-icon-badges.demolab.com/badge/MiMo-orange?logo=xiaomi&logoColor=ffffff"></a> 
+        <a href="https://www.minimax.io/"><img alt="MiniMax" src="https://custom-icon-badges.demolab.com/badge/MiniMax-ffffff?logo=minimax"></a> 
+        <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini"></a> 
+        <a href="https://www.deepseek.com/"><img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="DeepSeek"></a> 
+        <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="Github Copilot"></a> 
+        <a href="https://chatgpt.com/"><img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-00A67E?logo=openai&logoColor=fff" alt="ChatGPT"></a> 
     </td>
   </tr>
   <tr>
     <td>Design & Photography Tools</td>
     <td>
-      <img src="https://custom-icon-badges.demolab.com/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-071d32?logo=adobephotoshop&logoColor=56a1db" alt="Adobe Photoshop"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Illustrator-2e100e?logo=adobeillustrator&logoColor=fa971a" alt="Adobe Illustrator">       
-      <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Lightroom-071d32?logo=adobelightroom&logoColor=3a9edf" alt="Adobe Lightroom"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20XD-470336?logo=adobe-xd3&logoColor=white" alt="Adobe XD"> 
-      <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC?&logo=canva&logoColor=white" alt="Canva"> 
+        <a href="https://www.figma.com/"><img src="https://custom-icon-badges.demolab.com/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"></a> 
+        <a href="https://www.adobe.com/products/photoshop.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-071d32?logo=adobephotoshop&logoColor=56a1db" alt="Adobe Photoshop"></a> 
+        <a href="https://www.adobe.com/products/illustrator.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Illustrator-2e100e?logo=adobeillustrator&logoColor=fa971a" alt="Adobe Illustrator"></a> 
+        <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Lightroom-071d32?logo=adobelightroom&logoColor=3a9edf" alt="Adobe Lightroom"></a> 
+        <a href="https://www.adobe.com/products/xd.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20XD-470336?logo=adobe-xd3&logoColor=white" alt="Adobe XD"></a> 
+        <a href="https://www.canva.com/"><img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC?&logo=canva&logoColor=white" alt="Canva"></a> 
     </td>
   </tr>
   <tr>
     <td>Learn Code Here</td>
     <td>
-      <a href="https://www.coursera.org/"><img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff" alt="Coursera"></a>
-      <a href="https://www.codecademy.com/"><img src="https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white" alt="Codecademy"></a>
-      <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
-      <a href="https://www.codechef.com/"><img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff" alt="CodeChef"></a>
-      <a href="https://www.codewars.com/"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff" alt="Codewars"></a>
-      <a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp"></a>
-      <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-      <a href="https://www.khanacademy.org/"><img src="https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff" alt="Khan Academy"></a>
-      <a href="https://www.w3schools.com/"><img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff" alt="W3Schools"></a>
+        <a href="https://www.coursera.org/"><img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff" alt="Coursera"></a> 
+        <a href="https://www.codecademy.com/"><img src="https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white" alt="Codecademy"></a> 
+        <a href="https://www.codechef.com/"><img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff" alt="CodeChef"></a> 
+        <a href="https://www.codewars.com/"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff" alt="Codewars"></a> 
+        <a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp"></a> 
+        <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a> 
+        <a href="https://www.khanacademy.org/"><img src="https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff" alt="Khan Academy"></a> 
+        <a href="https://www.w3schools.com/"><img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff" alt="W3Schools"></a> 
+        <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a> 
     </td>
   </tr>
 </tbody></table>
+
+## 🎮 Gaming
+
+<div>
+  <a href="https://store.steampowered.com/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
+  <a href="https://store.epicgames.com/"><img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="Epic Games"></a>
+  <a href="https://www.gog.com/"><img src="https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff" alt="GOG.com"></a>
+  <a href="https://www.ubisoft.com/"><img src="https://img.shields.io/badge/Uplay-black?logo=ubisoft" alt="Uplay"></a>
+  <a href="https://www.riotgames.com/"><img src="https://img.shields.io/badge/Riot_Games-D32936.svg?style=flat&amp;logo=riotgames&amp;logoColor=white" alt="Riot Games"></a>
+  <a href="https://www.xbox.com/"><img src="https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff" alt="Xbox"></a>
+  <a href="https://www.ea.com/ea-app"><img src="https://img.shields.io/badge/Origin-F56C2D?logo=origin&logoColor=fff" alt="Origin"></a>
+</div>
 
 </details>
 
