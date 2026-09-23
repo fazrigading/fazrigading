@@ -351,12 +351,12 @@
 ## 🎮 Gaming
 
 <div>
-  <a href="https://store.steampowered.com/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
-  <a href="https://store.epicgames.com/"><img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="Epic Games"></a>
-  <a href="https://www.gog.com/"><img src="https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff" alt="GOG.com"></a>
+  <a href="https://steamcommunity.com/id/FazGXT/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
+  <a href="https://store.epicgames.com/u/4f87ba492d6e44fd831a3c29811914d9"><img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="Epic Games"></a>
+  <a href="https://www.xbox.com/en-US/play/user/gad1ng"><img src="https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff" alt="Xbox"></a>
+  <a href="https://www.gog.com/u/FazriGading"><img src="https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff" alt="GOG.com"></a>
   <a href="https://www.ubisoft.com/"><img src="https://img.shields.io/badge/Uplay-black?logo=ubisoft" alt="Uplay"></a>
   <a href="https://www.riotgames.com/"><img src="https://img.shields.io/badge/Riot_Games-D32936.svg?style=flat&amp;logo=riotgames&amp;logoColor=white" alt="Riot Games"></a>
-  <a href="https://www.xbox.com/"><img src="https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff" alt="Xbox"></a>
   <a href="https://www.ea.com/ea-app"><img src="https://img.shields.io/badge/Origin-F56C2D?logo=origin&logoColor=fff" alt="Origin"></a>
 </div>
 
