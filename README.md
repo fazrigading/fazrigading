@@ -1,42 +1,81 @@
-<h1 align="center">Welcome to my Profile ! 👋</h1>
-<h3 align="center">I'm Fazri Gading, a Computer Vision Specialist & AI Engineer</h3>
+<h2 align="center">👋 Hi, my name is Fazri Gading</h2>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading"/>
+  <a href="https://linkedin.com/in/fazrigading"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+  <a href="mailto:fazrigading@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://discord.gg/xsaVHryGC3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/fazrigading"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <br>
+  <a href="https://youtube.com/@FazriGading"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://quora.com/profile/Fazri-Gading"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"></a>
+  <a href="https://reddit.com/user/FazriGading"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://x.com/fazrigading"><img src="https://img.shields.io/badge/X%2FTwitter-black.svg?logo=X&logoColor=white" alt="X/Twitter"></a>
+  <a href="https://medium.com/@fazrigading"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://stackoverflow.com/users/14662592"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://twitch.tv/gad1ng"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
+  <br>
+  <a href="https://orcid.org/0009-0000-3466-1286"><img src="https://img.shields.io/badge/ORCID-FFFFFF?logo=orcid" alt="ORCID"></a>
+  <a href="https://scholar.google.com/citations?user=cKhDGZAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60587148700"><img src="https://img.shields.io/badge/Scopus-E9711C?logo=scopus&logoColor=white" alt="Scopus"></a>
+  <a href="https://ieeexplore.ieee.org/author/358616784769222"><img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?logo=ieee" alt="IEEE Xplore"></a>
+  <a href="https://www.semanticscholar.org/author/Fazri-Rahmad-Nor-Gading/2301899322"><img src="https://img.shields.io/badge/Semantic%20Scholar-cfbe0c?logo=semanticscholar" alt="Semantic Scholar"></a>
+  <a href="https://www.webofscience.com/wos/author/record/JQX-1348-2023"><img src="https://img.shields.io/badge/Web_of_Science-5A2A82?logo=clarivate&logoColor=white" alt="Web of Science"></a>
+</p>
 
-I specialize in object detection, image processing, and deep learning, with a core focus on agricultural, medical, and industrial automation. I build and deploy robust, real-world AI detection systems using PyTorch and TensorFlow, specifically optimizing models for high-accuracy visual recognition, medical, and plant disease identification. I also like to tinker my software and hardware, creating tools for my productivity. My hobby is playing video games and sometimes I'd like to develop a game myself.
+## 🧠 About Me
+
+* 🤖 **Applied AI & Systems Engineer** with a background in Computer Science and applied AI research.
+* 🧩 Work at the intersection of **Artificial Intelligence, Software Engineering, and Systems Development**.
+* 👁️ Background in **Deep Learning and Computer Vision**, especially object detection, instance segmentation, and pattern recognition.
+* 🧠 Currently expanding into AI-powered applications, LLMs, RAG systems, developer tooling, Linux desktop systems, cross-platform software, and software architecture.
+* 🔧 Enjoy experimenting with **software and hardware**, building productivity tools, exploring Linux, and turning ideas inspired by games and everyday problems into software projects.
 
 ## 🚀 What I Do
 
-* **Deep Learning & Computer Vision:** Designing and fine-tuning state-of-the-art object detection workflows, particularly focusing on lightweight YOLO architectures for edge deployment.
-* **Agricultural and Industrial Automation:** Engineering systems for automated crop counting, disease classification, and precision yield estimation. Implementing AI-driven quality control and defect detection systems in manufacturing processes.
-* **Medical Imaging Advancement:** Developing AI models for early disease detection and medical image analysis, enhancing diagnostic accuracy and efficiency.
-* **Mentorship & Community:** Certified TensorFlow Developer and former Machine Learning Mentor at `Bangkit Academy 2024 by Google, GoTo and Traveloka`, where I guided over 25 students through model training, optimization, and production deployment. 
-* **Professors' Assistant:** Served as a technical/laboratory lecturer at Mulawarman University, supporting undergraduate courses in AI, Machine Learning, Data Structures & Algorithms, and Object-Oriented Programming.
+### Systems & Software Engineering
+
+* Design software systems that connect AI models with APIs, databases, user interfaces, and external services.
+* Build back-end services and data pipelines for AI applications.
+* Develop developer tools and productivity-oriented software.
+* Explore Linux, desktop environments, system integration, and automation.
+* Build cross-platform applications that communicate across devices and operating systems.
+
+<details>
+  <summary>See more</summary>
+  
+### Artificial Intelligence & Machine Learning
+
+* Develop and experiment with **Deep Learning and Machine Learning** systems.
+* Work with **Computer Vision**, particularly object detection, image analysis, segmentation, and visual recognition.
+* Explore LLM applications, Retrieval-Augmented Generation (RAG), and AI-assisted software systems.
+* Experiment with model architectures, training workflows, evaluation methodologies, and deployment.
+* Apply AI to domains including agriculture, medical imaging, and other real-world problems.
+
+### Research & Engineering
+
+* Translate research ideas into reproducible software implementations.
+* Investigate model architectures and compare their practical performance.
+* Build datasets, experimentation pipelines, and evaluation workflows.
+* Work on applied research involving agricultural AI, medical imaging, and computer vision.
+* Bridge the gap between academic experimentation and usable engineering systems.
+
+### Teaching & Mentorship
+
+* Former **Machine Learning Mentor at Bangkit Academy 2024 by Google, GoTo, and Traveloka**, supporting more than 25 students throughout their ML learning path and projects.
+* Served as a laboratory/teaching assistant at **Universitas Mulawarman, Samarinda, Indonesia** for subjects including Machine Learning, Deep Learning, Data Structures & Algorithms, and Object-Oriented Programming.
+* Help students understand both the theoretical foundations and practical implementation of software and AI systems.
+* Occasionally helped students to write undergraduate thesis by guiding the research flow implementation, programs development, and deliverables preparation.  
+
+</details>
 
 ## 📚 Research Background
 
-I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarman. Beyond engineering, I actively contribute to academic research in applied AI. I have co-authored multiple Scopus-indexed papers, including Q1 journal submissions in *Smart Agricultural Technology* and *Artificial Intelligence in Agriculture*.
-
-## 🔬 Scholarly Profiles
-[![ORCID](https://img.shields.io/badge/ORCID-FFFFFF?logo=orcid)](https://orcid.org/0009-0000-3466-1286)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cKhDGZAAAAAJ&hl=en)
-[![Scopus](https://img.shields.io/badge/Scopus-E9711C?logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=60587148700)
-[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-00629B?logo=ieee)](https://ieeexplore.ieee.org/author/358616784769222)
-[![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-cfbe0c?logo=semanticscholar)](https://www.semanticscholar.org/author/Fazri-Rahmad-Nor-Gading/2301899322)
-[![Web of Science](https://img.shields.io/badge/Web_of_Science-5A2A82?logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/JQX-1348-2023)
-
-## 🌐 Socials
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/fazrigading) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fazrigading@gmail.com) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xsaVHryGC3) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fazrigading) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Fazri-Gading) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/FazriGading) 
-[![X/Twitter](https://img.shields.io/badge/X/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/fazrigading) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fazrigading) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14662592) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gad1ng) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FazriGading)  
+* 🎓 Hold a **Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarman**, with a strong academic and research background in **Applied AI, Deep Learning, and Computer Vision**.
+* 🌾 My research includes **agricultural AI and intelligent vision systems**, with Scopus-indexed research publications involving ***Smart Agricultural Technology* (Q1)** and ***Artificial Intelligence in Agriculture* (Q1)**.
+* 🧠 My research portfolio also extends across **Computer Vision, deep learning-based detection, image analysis, agricultural automation, and medical imaging**.
+* 🔬 My research experience bridges **academic research and practical engineering**, focusing on developing, evaluating, and applying AI systems to real-world problems.
+* 📊 I am particularly interested in research that connects **AI models, data, software systems, and domain-specific applications** rather than treating machine learning models as isolated components.
 
 ## 💻 Tech Stack
 
@@ -73,7 +112,7 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
   <tr>
     <td>Enterprise / JVM</td>
     <td>
-        <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java%20%C2%B7%20OOP%2Fteaching-%23ED8B00.svg?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java"></a> 
+        <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java"></a> 
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"></a> 
         <a href="https://www.scala-lang.org/"><img src="https://img.shields.io/badge/Scala-%23DC322F.svg?&logo=scala&logoColor=white" alt="Scala"></a> 
     </td>
@@ -137,6 +176,20 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
         <a href="https://www.nvidia.com/"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=white" alt="nVIDIA"></a> 
         <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"></a> 
         <a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"></a> 
+    </td>
+  </tr>
+  <tr>
+    <td>Learn Code Here</td>
+    <td>
+        <a href="https://www.w3schools.com/"><img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff" alt="W3Schools"></a> 
+        <a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp"></a> 
+        <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a> 
+        <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a> 
+        <a href="https://www.codecademy.com/"><img src="https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white" alt="Codecademy"></a> 
+        <a href="https://www.coursera.org/"><img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff" alt="Coursera"></a> 
+        <a href="https://www.codechef.com/"><img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff" alt="CodeChef"></a> 
+        <a href="https://www.codewars.com/"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff" alt="Codewars"></a> 
+        <a href="https://www.khanacademy.org/"><img src="https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff" alt="Khan Academy"></a> 
     </td>
   </tr>
 </tbody></table>
@@ -291,20 +344,6 @@ I hold a Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarm
         <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Lightroom-071d32?logo=adobelightroom&logoColor=3a9edf" alt="Adobe Lightroom"></a> 
         <a href="https://www.adobe.com/products/xd.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20XD-470336?logo=adobe-xd3&logoColor=white" alt="Adobe XD"></a> 
         <a href="https://www.canva.com/"><img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC?&logo=canva&logoColor=white" alt="Canva"></a> 
-    </td>
-  </tr>
-  <tr>
-    <td>Learn Code Here</td>
-    <td>
-        <a href="https://www.coursera.org/"><img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff" alt="Coursera"></a> 
-        <a href="https://www.codecademy.com/"><img src="https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white" alt="Codecademy"></a> 
-        <a href="https://www.codechef.com/"><img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff" alt="CodeChef"></a> 
-        <a href="https://www.codewars.com/"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff" alt="Codewars"></a> 
-        <a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp"></a> 
-        <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a> 
-        <a href="https://www.khanacademy.org/"><img src="https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff" alt="Khan Academy"></a> 
-        <a href="https://www.w3schools.com/"><img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff" alt="W3Schools"></a> 
-        <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a> 
     </td>
   </tr>
 </tbody></table>
