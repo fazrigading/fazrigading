@@ -195,7 +195,7 @@
 </tbody></table>
 
 <details>
-<summary>Click here to see more</summary>
+<summary>See more</summary>
 
 <table><thead>
   <tr>
@@ -366,10 +366,9 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fazrigading&theme=transparent" alt="fazrigading's GitHub Streak"/></a>
-</div>
 
 <details>
-<summary>Click here to see more</summary>
+<summary>See more</summary>
   
 <div align="center">
   <a href="https://github.com/fazrigading/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=fazrigading&show_icons=true&theme=transparent&include_all_commits=true" alt="fazrigading's GitHub Statistics"/></a>
@@ -384,6 +383,8 @@
 </div>
 
 </details>
+
+</div>
 
 <!--
 ## 💰 Donation
