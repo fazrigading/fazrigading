@@ -185,7 +185,7 @@
         <a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp"></a> 
         <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a> 
         <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a> 
-        <a href="https://www.codecademy.com/"><img src="https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white" alt="Codecademy"></a> 
+        <a href="https://www.codecademy.com/"><img src="https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white" alt="Codecademy"></a><br>
         <a href="https://www.coursera.org/"><img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff" alt="Coursera"></a> 
         <a href="https://www.codechef.com/"><img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff" alt="CodeChef"></a> 
         <a href="https://www.codewars.com/"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff" alt="Codewars"></a> 
@@ -203,21 +203,21 @@
     <th><b>Language/Tools/Frameworks</b></th>
   </tr></thead>
   <tr>
-    <td>Research Tools</td>
+    <td>Experiment & Research</td>
     <td>
         <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff" alt="Kaggle"></a> 
         <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter"></a> 
         <a href="https://pypi.org/"><img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPi"></a> 
         <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff" alt="Roboflow"></a> 
         <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab"></a> 
-        <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"></a> 
+        <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"></a><br>
         <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Google Scholar"></a> 
         <a href="https://www.academia.edu/"><img src="https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white" alt="Academia"></a> 
         <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX"></a> 
     </td>
   </tr>
   <tr>
-    <td>Frontend</td>
+    <td>Front-end</td>
     <td>
         <a href="https://tauri.app/"><img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white" alt="Tauri"></a> 
         <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"></a> 
@@ -230,7 +230,7 @@
     </td>
   </tr>
   <tr>
-    <td>Backend</td>
+    <td>Back-end</td>
     <td>
         <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"></a> 
         <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&amp;logo=flask&amp;logoColor=white" alt="Flask"></a> 
@@ -327,7 +327,7 @@
         <a href="https://www.meta.ai/"><img alt="Meta" src="https://custom-icon-badges.demolab.com/badge/Meta-222226?logo=meta&logoColor=0080f9"></a> 
         <a href="https://z.ai/"><img alt="Z.ai" src="https://custom-icon-badges.demolab.com/badge/GLM-000000?logo=z.ai&logoColor=ffffff"></a> 
         <a href="https://www.kimi.com/"><img alt="Kimi" src="https://custom-icon-badges.demolab.com/badge/Kimi-121212?logo=kimi&logoColor=ffffff"></a> 
-        <a href="https://github.com/XiaomiMiMo/MiMo"><img alt="Xiaomi AI" src="https://custom-icon-badges.demolab.com/badge/MiMo-orange?logo=xiaomi&logoColor=ffffff"></a> 
+        <a href="https://github.com/XiaomiMiMo/MiMo"><img alt="Xiaomi AI" src="https://custom-icon-badges.demolab.com/badge/MiMo-orange?logo=xiaomi&logoColor=ffffff"></a><br>
         <a href="https://www.minimax.io/"><img alt="MiniMax" src="https://custom-icon-badges.demolab.com/badge/MiniMax-ffffff?logo=minimax"></a> 
         <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini"></a> 
         <a href="https://www.deepseek.com/"><img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" alt="DeepSeek"></a> 
@@ -336,29 +336,29 @@
     </td>
   </tr>
   <tr>
-    <td>Design & Photography Tools</td>
+    <td>Design & Photography</td>
     <td>
         <a href="https://www.figma.com/"><img src="https://custom-icon-badges.demolab.com/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"></a> 
-        <a href="https://www.adobe.com/products/photoshop.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-071d32?logo=adobephotoshop&logoColor=56a1db" alt="Adobe Photoshop"></a> 
-        <a href="https://www.adobe.com/products/illustrator.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Illustrator-2e100e?logo=adobeillustrator&logoColor=fa971a" alt="Adobe Illustrator"></a> 
-        <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Lightroom-071d32?logo=adobelightroom&logoColor=3a9edf" alt="Adobe Lightroom"></a> 
+        <a href="https://www.adobe.com/products/photoshop.html"><img src="https://custom-icon-badges.demolab.com/badge/Photoshop-071d32?logo=adobephotoshop&logoColor=56a1db" alt="Adobe Photoshop"></a> 
+        <a href="https://www.adobe.com/products/illustrator.html"><img src="https://custom-icon-badges.demolab.com/badge/Illustrator-2e100e?logo=adobeillustrator&logoColor=fa971a" alt="Adobe Illustrator"></a> 
+        <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://custom-icon-badges.demolab.com/badge/Lightroom-071d32?logo=adobelightroom&logoColor=3a9edf" alt="Adobe Lightroom"></a> 
         <a href="https://www.adobe.com/products/xd.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20XD-470336?logo=adobe-xd3&logoColor=white" alt="Adobe XD"></a> 
         <a href="https://www.canva.com/"><img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC?&logo=canva&logoColor=white" alt="Canva"></a> 
     </td>
   </tr>
+  <tr>
+    <td>Gaming Profiles</td>
+    <td>
+      <a href="https://steamcommunity.com/id/FazGXT/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
+      <a href="https://store.epicgames.com/u/4f87ba492d6e44fd831a3c29811914d9"><img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="Epic Games"></a>
+      <a href="https://www.xbox.com/en-US/play/user/gad1ng"><img src="https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff" alt="Xbox"></a>
+      <a href="https://www.gog.com/u/FazriGading"><img src="https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff" alt="GOG.com"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Uplay-black?logo=ubisoft" alt="Uplay"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Riot_Games-D32936.svg?style=flat&amp;logo=riotgames&amp;logoColor=white" alt="Riot Games"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Origin-F56C2D?logo=origin&logoColor=fff" alt="Origin"></a>
+    </td>
+  </tr>
 </tbody></table>
-
-## 🎮 Gaming
-
-<div>
-  <a href="https://steamcommunity.com/id/FazGXT/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
-  <a href="https://store.epicgames.com/u/4f87ba492d6e44fd831a3c29811914d9"><img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="Epic Games"></a>
-  <a href="https://www.xbox.com/en-US/play/user/gad1ng"><img src="https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff" alt="Xbox"></a>
-  <a href="https://www.gog.com/u/FazriGading"><img src="https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff" alt="GOG.com"></a>
-  <a href="https://www.ubisoft.com/"><img src="https://img.shields.io/badge/Uplay-black?logo=ubisoft" alt="Uplay"></a>
-  <a href="https://www.riotgames.com/"><img src="https://img.shields.io/badge/Riot_Games-D32936.svg?style=flat&amp;logo=riotgames&amp;logoColor=white" alt="Riot Games"></a>
-  <a href="https://www.ea.com/ea-app"><img src="https://img.shields.io/badge/Origin-F56C2D?logo=origin&logoColor=fff" alt="Origin"></a>
-</div>
 
 </details>
 
