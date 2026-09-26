@@ -366,7 +366,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fazrigading&theme=transparent" alt="fazrigading's GitHub Streak"/></a>
-
+  
 <details>
 <summary>See more</summary>
   
@@ -375,10 +375,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/fazrigading/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fazrigading&theme=transparent&include_all_commits=true&layout=donut" alt="fazrigading's GitHub Top Languages" /></a>
-</div>
-
-<div align="center">
+  <a href="https://github.com/fazrigading/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=fazrigading&layout=compact&langs_count=20&theme=dark_github" alt="fazrigading's GitHub Top Languages" /></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-unserori.vercel.app/?username=fazrigading&theme=gitdimmed&row=3&column=3" alt="fazrigading's GitHub Trophies"/></a>
 </div>
 
