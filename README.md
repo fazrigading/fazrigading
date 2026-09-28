@@ -249,6 +249,7 @@
   <tr>
     <td>Mobile Development</td>
     <td>
+        <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"></a>
         <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&amp;logo=Flutter&amp;logoColor=white" alt="Flutter"></a> 
         <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&amp;logo=Dart&amp;logoColor=white" alt="Dart"></a> 
         <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&amp;logo=Gradle&amp;logoColor=white" alt="Gradle"></a> 
