@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, my name is Fazri Gading</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading"/>
+  <img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading's Profile Views"/>
   <a href="https://linkedin.com/in/fazrigading"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
   <a href="mailto:fazrigading@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://discord.gg/xsaVHryGC3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
@@ -88,73 +88,73 @@
   <tr>
     <td>Systems / Performance</td>
     <td>
-        <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C%20%C2%B7%20embedded-%2300599C.svg?style=flat&amp;logo=c&amp;logoColor=white" alt="C"></a> 
-        <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++%20%C2%B7%20edge%2Fperf-%2300599C.svg?style=flat&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"></a> 
-        <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"></a> 
-        <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go"></a> 
+        <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++%20%C2%B7%20edge%2Fperf-%2300599C.svg?style=flat&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" title="Learned it on 2022; intermediate-level"></a> 
+        <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C%20%C2%B7%20embedded-%2300599C.svg?style=flat&amp;logo=c&amp;logoColor=white" alt="C" title="You can read C if you can understand C++"></a> 
+        <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust" title="Still learning, very beginner phase."></a> 
+        <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go" title="Still learning, very beginner phase ATM"></a> 
     </td>
   </tr>
   <tr>
     <td>Scripting / Data</td>
     <td>
-        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python%20%C2%B7%20CV%2FML-3670A0?style=flat&amp;logo=python&amp;logoColor=ffdd54" alt="Python"></a> 
-        <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20%C2%B7%20stats%2Fresearch-%23276DC3.svg?style=flat&amp;logo=r&amp;logoColor=white" alt="R"></a> 
-        <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" alt="Ruby"></a> 
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python%20%C2%B7%20CV%2FML-3670A0?style=flat&amp;logo=python&amp;logoColor=ffdd54" alt="Python" title="I am not really expert, upper-intermediate I could say."></a> 
+        <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20%C2%B7%20stats%2Fresearch-%23276DC3.svg?style=flat&amp;logo=r&amp;logoColor=white" alt="R" title="Learned R in 2021, haven't used it much"></a> 
+        <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" alt="Ruby" title="Still learning, very beginner phase."></a> 
     </td>
   </tr>
   <tr>
     <td>Web</td>
     <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript%20%C2%B7%20frontend-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"></a> 
-        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"></a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript%20%C2%B7%20frontend-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" title="Easy-to-understand, I am in intermediate level."></a> 
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" title="More or less similar to JS, I am a beginner."></a> 
     </td>
   </tr>
   <tr>
     <td>Enterprise / JVM</td>
     <td>
-        <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java"></a> 
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"></a> 
-        <a href="https://www.scala-lang.org/"><img src="https://img.shields.io/badge/Scala-%23DC322F.svg?&logo=scala&logoColor=white" alt="Scala"></a> 
+        <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java" title="Learned in 2021, still beginner"></a> 
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#" title="Currently learning."></a> 
+        <a href="https://www.scala-lang.org/"><img src="https://img.shields.io/badge/Scala-%23DC322F.svg?&logo=scala&logoColor=white" alt="Scala" title="Currently learning."></a> 
     </td>
   </tr>
   <tr>
     <td>OS / Shell</td>
     <td>
-        <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"></a> 
-        <a href="https://fedoraproject.org/"><img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff" alt="Fedora"></a> 
-        <a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" alt="Zsh"></a> 
+        <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" title="Once you try Linux, Windows feel sucks."></a> 
+        <a href="https://fedoraproject.org/"><img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff" alt="Fedora" title="Workstation Edition (GNOME)"></a> 
+        <a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" alt="Zsh" title="Much better than bash."></a> 
     </td>
   </tr>
   <tr>
     <td>Editors / IDEs</td>
     <td>
-        <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" alt="Zed"></a> 
-        <a href="https://code.visualstudio.com/"><img src="https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code"></a> 
-        <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" alt="Neovim"></a> 
-        <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?logo=cursor" alt="Cursor"></a> 
-        <a href="https://netbeans.apache.org/"><img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"></a> 
-        <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ"></a> 
-        <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="PyCharm"></a> 
+        <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" alt="Zed" title="Lightweight and fast."></a> 
+        <a href="https://code.visualstudio.com/"><img src="https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code" title="Stuck in this software since 2020."></a> 
+        <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" alt="Neovim" title="Using LazyVim; still learning"></a> 
+        <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?logo=cursor" alt="Cursor" title="Tried it for awhile."></a> 
+        <a href="https://netbeans.apache.org/"><img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" title="Used to design Java program here."></a> 
+        <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ" title="Similar to NetBeans, but heavier"></a> 
+        <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="PyCharm" title="Used it once for TensorFlow Developer Certificate"></a> 
     </td>
   </tr>
   <tr>
     <td>Terminal / Browsers</td>
     <td>
-        <a href="https://ghostty.org/"><img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term" alt="Ghostty"></a> 
-        <a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff" alt="Zen Browser"></a> 
-        <a href="https://vivaldi.com/"><img src="https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white" alt="Vivaldi"></a> 
-        <a href="https://www.mozilla.org/firefox/"><img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white" alt="Firefox"></a> 
+        <a href="https://ghostty.org/"><img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term" alt="Ghostty" title="A great terminal indeed."></a> 
+        <a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff" alt="Zen Browser" title="I fell in love with the simplicity. Powered by Firefox!"></a> 
+        <a href="https://vivaldi.com/"><img src="https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white" alt="Vivaldi" title="Highly customizable browser, but uses Chromium, yucks."></a> 
+        <a href="https://www.mozilla.org/firefox/"><img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white" alt="Firefox" title="Still using this since 2010s."></a> 
     </td>
   </tr>
   <tr>
     <td>Deep Learning</td>
     <td>
-        <a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff" alt="YOLO"></a> 
-        <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch"></a> 
-        <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"></a> 
-        <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&amp;logo=Keras&amp;logoColor=white" alt="Keras"></a> 
-        <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"></a> 
-        <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="LangChain"></a> 
+        <a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff" alt="YOLO" title="YOLOv5 started it all."></a> 
+        <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch" title="I like explicit programming, hence PyTorch is the answer."></a> 
+        <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow" title="I left it behind cause it has too much abstraction and too exclusive for their API"></a> 
+        <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&amp;logo=Keras&amp;logoColor=white" alt="Keras" title="Means 'Strong' in Indonesian language. I learned Keras in version 2 where TF was behind it."></a> 
+        <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" title="The main core of Computer Vision"></a> 
+        <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="LangChain" title="A lot of IT role need this due to LLM popularity, so I gotta learn it"></a> 
     </td>
   </tr>
   <tr>
