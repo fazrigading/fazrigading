@@ -366,7 +366,7 @@
 ## 📊 GitHub Stats and Trophies 🏆 
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fazrigading&theme=transparent" alt="fazrigading's GitHub Streak"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fazrigading&theme=transparent&card_width=468" alt="fazrigading's GitHub Streak"/></a>
   
 <div align="center">
   <a href="https://github-stats-extended.vercel.app/frontend/"><img src="https://github-stats-extended.vercel.app/api?username=fazrigading&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=transparent" alt="fazrigading's GitHub Statistics"/></a>
