@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, my name is Fazri Gading</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading's Profile Views"/>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading's Profile Views"/></a>
   <a href="https://linkedin.com/in/fazrigading"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
   <a href="mailto:fazrigading@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://discord.gg/xsaVHryGC3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
