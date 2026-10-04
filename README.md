@@ -23,6 +23,25 @@
   <a href="https://www.webofscience.com/wos/author/record/JQX-1348-2023"><img src="https://img.shields.io/badge/Web_of_Science-5A2A82?logo=clarivate&logoColor=white" alt="Web of Science"></a>
 </p>
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fazrigading&theme=transparent&card_width=468" alt="fazrigading's GitHub Streak"/></a>
+  
+<div align="center">
+  <a href="https://github-stats-extended.vercel.app/frontend/"><img src="https://github-stats-extended.vercel.app/api?username=fazrigading&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=transparent" alt="fazrigading's GitHub Statistics"/></a>
+</div>
+
+<details>
+<summary>Click here to see Most Language Used and Trophies</summary>
+  
+<div align="center">
+  <a href="https://github.com/fazrigading/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=fazrigading&layout=compact&langs_count=20&theme=dark_github" alt="fazrigading's GitHub Top Languages" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-unserori.vercel.app/?username=fazrigading&theme=darkhub&row=3&column=3&margin-w=5&margin-h=5&no-frame=true" alt="fazrigading's GitHub Trophies"/></a>
+</div>
+
+</details>
+
+</div>
+
 ## 🧠 About Me
 
 👔  **Professional Role:**
@@ -171,6 +190,20 @@
     </td>
   </tr>
   <tr>
+    <td>Experiment & Research</td>
+    <td>
+        <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff" alt="Kaggle"></a> 
+        <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter"></a> 
+        <a href="https://pypi.org/"><img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPi"></a> 
+        <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff" alt="Roboflow"></a> 
+        <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab"></a> 
+        <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"></a><br>
+        <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Google Scholar"></a> 
+        <a href="https://www.academia.edu/"><img src="https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white" alt="Academia"></a> 
+        <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX"></a> 
+    </td>
+  </tr>
+  <tr>
     <td>Compute / Infra</td>
     <td>
         <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=green" alt="cuda"></a> 
@@ -196,27 +229,13 @@
 </tbody></table>
 
 <details>
-<summary>See more</summary>
+<summary>See more of my Tech Stack</summary>
 
 <table><thead>
   <tr>
     <th><b>More Tech Stack</b></th>
     <th><b>Language/Tools/Frameworks</b></th>
   </tr></thead>
-  <tr>
-    <td>Experiment & Research</td>
-    <td>
-        <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff" alt="Kaggle"></a> 
-        <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter"></a> 
-        <a href="https://pypi.org/"><img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPi"></a> 
-        <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff" alt="Roboflow"></a> 
-        <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab"></a> 
-        <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"></a><br>
-        <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Google Scholar"></a> 
-        <a href="https://www.academia.edu/"><img src="https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white" alt="Academia"></a> 
-        <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX"></a> 
-    </td>
-  </tr>
   <tr>
     <td>Front-end</td>
     <td>
