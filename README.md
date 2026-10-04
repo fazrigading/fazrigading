@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, my name is Fazri Gading</h2>
 
 <p align="center">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading's Profile Views"/></a>
+  <!-- <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading's Profile Views"/></a> -->
   <a href="https://linkedin.com/in/fazrigading"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
   <a href="mailto:fazrigading@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://discord.gg/xsaVHryGC3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
@@ -25,15 +25,24 @@
 
 ## 🧠 About Me
 
+👔  **Professional Role:**
 * 🤖 **Applied AI & Systems Engineer** with a background in Computer Science and applied AI research.
 * 🧩 Work at the intersection of **Artificial Intelligence, Software Engineering, and Systems Development**.
-* 👁️ Background in **Deep Learning and Computer Vision**, especially object detection, instance segmentation, and pattern recognition.
-* 🧠 Currently expanding into AI-powered applications, LLMs, RAG systems, developer tooling, Linux desktop systems, cross-platform software, and software architecture.
+* 🎓 Hold a **Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarman**, with a strong academic and research background in **Deep Learning and Computer Vision**, especially in object detection, instance segmentation, and pattern recognition.
+
+🧠  **Research Profile:**
+* 🔬 My research portfolio also extends across **deep learning-based detection, image analysis, agricultural automation, and medical imaging**.
+* 🌾 My research includes **agricultural AI and intelligent vision systems**, with Scopus-indexed research publications involving ***Smart Agricultural Technology* (Q1)**.
+* 📊 I am particularly interested in research that connects **AI models, data, software systems, and domain-specific applications** rather than treating machine learning models as isolated components.
+
+⏳  **Current Phase:**
+* ⚙️ Expanding into AI-powered applications, LLMs, RAG systems, developer tooling, Linux desktop systems, cross-platform software, and software architecture.
 * 🔧 Enjoy experimenting with **software and hardware**, building productivity tools, exploring Linux, and turning ideas inspired by games and everyday problems into software projects.
+* 📈 Improving online presence via digital branding and focusing on professional self-development such as building meaningful projects, learning more programming languages, newer frameworks and models, also advanced algorithms.
 
-## 🚀 What I Do
+### 🚀 What I Do
 
-### Systems & Software Engineering
+#### Systems & Software Engineering
 
 * Design software systems that connect AI models with APIs, databases, user interfaces, and external services.
 * Build back-end services and data pipelines for AI applications.
@@ -42,9 +51,9 @@
 * Build cross-platform applications that communicate across devices and operating systems.
 
 <details>
-  <summary>See more</summary>
+  <summary>Press here to see more</summary>
   
-### Artificial Intelligence & Machine Learning
+#### Artificial Intelligence & Machine Learning
 
 * Develop and experiment with **Deep Learning and Machine Learning** systems.
 * Work with **Computer Vision**, particularly object detection, image analysis, segmentation, and visual recognition.
@@ -52,7 +61,7 @@
 * Experiment with model architectures, training workflows, evaluation methodologies, and deployment.
 * Apply AI to domains including agriculture, medical imaging, and other real-world problems.
 
-### Research & Engineering
+#### Research & Engineering
 
 * Translate research ideas into reproducible software implementations.
 * Investigate model architectures and compare their practical performance.
@@ -60,7 +69,7 @@
 * Work on applied research involving agricultural AI, medical imaging, and computer vision.
 * Bridge the gap between academic experimentation and usable engineering systems.
 
-### Teaching & Mentorship
+#### Teaching & Mentorship
 
 * Former **Machine Learning Mentor at Bangkit Academy 2024 by Google, GoTo, and Traveloka**, supporting more than 25 students throughout their ML learning path and projects.
 * Served as a laboratory/teaching assistant at **Universitas Mulawarman, Samarinda, Indonesia** for subjects including Machine Learning, Deep Learning, Data Structures & Algorithms, and Object-Oriented Programming.
@@ -68,14 +77,6 @@
 * Occasionally helped students to write undergraduate thesis by guiding the research flow implementation, programs development, and deliverables preparation.  
 
 </details>
-
-## 📚 Research Background
-
-* 🎓 Hold a **Bachelor of Computer Science (B.CS. / S.Kom.) from Universitas Mulawarman**, with a strong academic and research background in **Applied AI, Deep Learning, and Computer Vision**.
-* 🌾 My research includes **agricultural AI and intelligent vision systems**, with Scopus-indexed research publications involving ***Smart Agricultural Technology* (Q1)** and ***Artificial Intelligence in Agriculture* (Q1)**.
-* 🧠 My research portfolio also extends across **Computer Vision, deep learning-based detection, image analysis, agricultural automation, and medical imaging**.
-* 🔬 My research experience bridges **academic research and practical engineering**, focusing on developing, evaluating, and applying AI systems to real-world problems.
-* 📊 I am particularly interested in research that connects **AI models, data, software systems, and domain-specific applications** rather than treating machine learning models as isolated components.
 
 ## 💻 Tech Stack
 
