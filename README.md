@@ -383,27 +383,6 @@
 
 </details>
 
-## 📊 GitHub Stats and Trophies 🏆 
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fazrigading&theme=transparent&card_width=468" alt="fazrigading's GitHub Streak"/></a>
-  
-<div align="center">
-  <a href="https://github-stats-extended.vercel.app/frontend/"><img src="https://github-stats-extended.vercel.app/api?username=fazrigading&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=transparent" alt="fazrigading's GitHub Statistics"/></a>
-</div>
-
-<details>
-<summary>See more</summary>
-  
-<div align="center">
-  <a href="https://github.com/fazrigading/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=fazrigading&layout=compact&langs_count=20&theme=dark_github" alt="fazrigading's GitHub Top Languages" /></a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-unserori.vercel.app/?username=fazrigading&theme=darkhub&row=3&column=3&margin-w=5&margin-h=5&no-frame=true" alt="fazrigading's GitHub Trophies"/></a>
-</div>
-
-</details>
-
-</div>
-
 <!--
 ## 💰 Donation
 
