@@ -102,7 +102,7 @@
 
 ## 💻 Tech Stack
 
-Hold for a sec on each badge to see my note.
+Hover mouse for a second on each badge to see my note.
 
 <table><thead>
   <tr>
