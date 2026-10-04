@@ -2,18 +2,20 @@
 
 <p align="center">
   <!-- <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=fazrigading&label=Profile%20views&color=0e75b6&style=flat" alt="fazrigading's Profile Views"/></a> -->
-  <a href="https://linkedin.com/in/fazrigading"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-  <a href="mailto:fazrigading@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://discord.gg/xsaVHryGC3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://instagram.com/fazrigading"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <br>
-  <a href="https://youtube.com/@FazriGading"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-  <a href="https://quora.com/profile/Fazri-Gading"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"></a>
-  <a href="https://reddit.com/user/FazriGading"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
-  <a href="https://x.com/fazrigading"><img src="https://img.shields.io/badge/X%2FTwitter-black.svg?logo=X&logoColor=white" alt="X/Twitter"></a>
-  <a href="https://medium.com/@fazrigading"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://stackoverflow.com/users/14662592"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://twitch.tv/gad1ng"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
+  <a href="https://linkedin.com/in/fazrigading"><img src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+  <a href="mailto:fazrigading@gmail.com"><img src="https://img.shields.io/badge/-%23D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://discord.gg/xsaVHryGC3"><img src="https://img.shields.io/badge/-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/fazrigading"><img src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://youtube.com/@FazriGading"><img src="https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://quora.com/profile/Fazri-Gading"><img src="https://img.shields.io/badge/-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"></a>
+  <a href="https://reddit.com/user/FazriGading"><img src="https://img.shields.io/badge/-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://x.com/fazrigading"><img src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white" alt="X/Twitter"></a>
+  <a href="https://medium.com/@fazrigading"><img src="https://img.shields.io/badge/-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://twitch.tv/gad1ng"><img src="https://img.shields.io/badge/-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
+  <a href="https://steamcommunity.com/id/FazGXT/"><img src="https://img.shields.io/badge/-%23000000.svg?style=flat&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
+  <a href="https://store.epicgames.com/u/4f87ba492d6e44fd831a3c29811914d9"><img src="https://img.shields.io/badge/-%23313131.svg?logo=epicgames&logoColor=white" alt="Epic Games"></a>
+  <a href="https://www.gog.com/u/FazriGading"><img src="https://img.shields.io/badge/-86328A?logo=gogdotcom&logoColor=fff" alt="GOG.com"></a>
+  <a href="https://www.xbox.com/en-US/play/user/gad1ng"><img src="https://custom-icon-badges.demolab.com/badge/-0E7A0D?logo=xbox&logoColor=fff" alt="Xbox"></a>
   <br>
   <a href="https://orcid.org/0009-0000-3466-1286"><img src="https://img.shields.io/badge/ORCID-FFFFFF?logo=orcid" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?user=cKhDGZAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
@@ -21,6 +23,7 @@
   <a href="https://ieeexplore.ieee.org/author/358616784769222"><img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?logo=ieee" alt="IEEE Xplore"></a>
   <a href="https://www.semanticscholar.org/author/Fazri-Rahmad-Nor-Gading/2301899322"><img src="https://img.shields.io/badge/Semantic%20Scholar-cfbe0c?logo=semanticscholar" alt="Semantic Scholar"></a>
   <a href="https://www.webofscience.com/wos/author/record/JQX-1348-2023"><img src="https://img.shields.io/badge/Web_of_Science-5A2A82?logo=clarivate&logoColor=white" alt="Web of Science"></a>
+  <a href="https://unmul.academia.edu/FazriGading"><img src="https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white" alt="Academia"></a> 
 </p>
 
 <div align="center">
@@ -99,6 +102,8 @@
 
 ## 💻 Tech Stack
 
+Hold for a sec on each badge to see my note.
+
 <table><thead>
   <tr>
     <th><b>Tech Stack</b></th>
@@ -172,7 +177,7 @@
         <a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff" alt="YOLO" title="YOLOv5 started it all."></a> 
         <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch" title="I like explicit programming, hence PyTorch is the answer."></a> 
         <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow" title="I left it behind cause it has too much abstraction and too exclusive for their API"></a> 
-        <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&amp;logo=Keras&amp;logoColor=white" alt="Keras" title="Means 'Strong' in Indonesian language. I learned Keras in version 2 where TF was behind it."></a> 
+        <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&amp;logo=Keras&amp;logoColor=white" alt="Keras" title="I learned Keras in version 2 where TF was behind it."></a> 
         <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" title="The main core of Computer Vision"></a> 
         <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" alt="LangChain" title="A lot of IT role need this due to LLM popularity, so I gotta learn it"></a> 
     </td>
@@ -192,15 +197,14 @@
   <tr>
     <td>Experiment & Research</td>
     <td>
+        <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX"></a> 
         <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff" alt="Kaggle"></a> 
-        <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter"></a> 
-        <a href="https://pypi.org/"><img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPi"></a> 
         <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff" alt="Roboflow"></a> 
         <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab"></a> 
+        <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter" alt="Jupyter"></a> 
+        <a href="https://pypi.org/"><img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPi"></a> 
         <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"></a><br>
         <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Google Scholar"></a> 
-        <a href="https://www.academia.edu/"><img src="https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white" alt="Academia"></a> 
-        <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX"></a> 
     </td>
   </tr>
   <tr>
@@ -365,18 +369,6 @@
         <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://custom-icon-badges.demolab.com/badge/Lightroom-071d32?logo=adobelightroom&logoColor=3a9edf" alt="Adobe Lightroom"></a> 
         <a href="https://www.adobe.com/products/xd.html"><img src="https://custom-icon-badges.demolab.com/badge/Adobe%20XD-470336?logo=adobe-xd3&logoColor=white" alt="Adobe XD"></a> 
         <a href="https://www.canva.com/"><img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC?&logo=canva&logoColor=white" alt="Canva"></a> 
-    </td>
-  </tr>
-  <tr>
-    <td>Gaming Profiles</td>
-    <td>
-      <a href="https://steamcommunity.com/id/FazGXT/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
-      <a href="https://store.epicgames.com/u/4f87ba492d6e44fd831a3c29811914d9"><img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="Epic Games"></a>
-      <a href="https://www.xbox.com/en-US/play/user/gad1ng"><img src="https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff" alt="Xbox"></a>
-      <a href="https://www.gog.com/u/FazriGading"><img src="https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff" alt="GOG.com"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Uplay-black?logo=ubisoft" alt="Uplay"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Riot_Games-D32936.svg?style=flat&amp;logo=riotgames&amp;logoColor=white" alt="Riot Games"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Origin-F56C2D?logo=origin&logoColor=fff" alt="Origin"></a>
     </td>
   </tr>
 </tbody></table>
