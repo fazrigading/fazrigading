@@ -195,6 +195,15 @@ Hover mouse for a second on each badge to see my note.
     </td>
   </tr>
   <tr>
+    <td>Mobile Development</td>
+    <td>
+        <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"></a>
+        <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&amp;logo=Flutter&amp;logoColor=white" alt="Flutter"></a> 
+        <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&amp;logo=Dart&amp;logoColor=white" alt="Dart"></a> 
+        <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&amp;logo=Gradle&amp;logoColor=white" alt="Gradle"></a> 
+    </td>
+  </tr>
+  <tr>
     <td>Experiment & Research</td>
     <td>
         <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&amp;logo=latex&amp;logoColor=white" alt="LaTeX"></a> 
@@ -205,15 +214,6 @@ Hover mouse for a second on each badge to see my note.
         <a href="https://pypi.org/"><img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPi"></a> 
         <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"></a><br>
         <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Google Scholar"></a> 
-    </td>
-  </tr>
-  <tr>
-    <td>Compute / Infra</td>
-    <td>
-        <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=green" alt="cuda"></a> 
-        <a href="https://www.nvidia.com/"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=white" alt="nVIDIA"></a> 
-        <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"></a> 
-        <a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"></a> 
     </td>
   </tr>
   <tr>
@@ -271,15 +271,15 @@ Hover mouse for a second on each badge to see my note.
     </td>
   </tr>
   <tr>
-    <td>Mobile Development</td>
+    <td>Compute / Infra</td>
     <td>
-        <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"></a>
-        <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&amp;logo=Flutter&amp;logoColor=white" alt="Flutter"></a> 
-        <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&amp;logo=Dart&amp;logoColor=white" alt="Dart"></a> 
-        <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&amp;logo=Gradle&amp;logoColor=white" alt="Gradle"></a> 
+        <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=green" alt="cuda"></a> 
+        <a href="https://www.nvidia.com/"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&amp;logo=nVIDIA&amp;logoColor=white" alt="nVIDIA"></a> 
+        <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"></a> 
+        <a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"></a> 
     </td>
   </tr>
-  <tr>
+   <tr>
     <td>VCS / CI</td>
     <td>
         <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub"></a> 
