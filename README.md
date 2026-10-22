@@ -37,7 +37,7 @@
 <summary>Click here to see Most Language Used and Trophies</summary>
   
 <div align="center">
-  <a href="https://github.com/fazrigading/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=fazrigading&layout=compact&langs_count=20&theme=dark_github" alt="fazrigading's GitHub Top Languages" /></a>
+  <a href="https://github-stats-extended.vercel.app/frontend/"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=fazrigading&layout=compact&langs_count=20&theme=dark_github" alt="fazrigading's GitHub Top Languages" /></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-unserori.vercel.app/?username=fazrigading&theme=darkhub&row=3&column=3&margin-w=5&margin-h=5&no-frame=true" alt="fazrigading's GitHub Trophies"/></a>
 </div>
 
