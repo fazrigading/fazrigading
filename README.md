@@ -75,7 +75,7 @@
 🧠  **Research Profile:**
 * 🔬 My research portfolio also extends across **deep learning-based detection, image analysis, agricultural automation, and medical imaging**.
 * 🌾 My research includes **agricultural AI and intelligent vision systems**, with Scopus-indexed research publications involving ***Smart Agricultural Technology* (Q1)**.
-* 📊 I am particularly interested in research that connects **AI models, data, software systems, and domain-specific applications** rather than treating machine learning models as isolated components.
+* 📊 I am particularly interested in research that connects **AI models, data, software systems, and domain-specific applications**.
 
 ⏳  **Current Phase:**
 * ⚙️ Expanding into AI-powered applications, LLMs, RAG systems, developer tooling, Linux desktop systems, cross-platform software, and software architecture.
