@@ -43,6 +43,26 @@
 
 </details>
 
+<div align="center">
+  <a href="https://github.com/fazrigading/SessionIntent"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2FSessionIntent&description_lines_count=3&theme=transparent&browser_rendering=true" alt="SessionIntent"></a>
+  <a href="https://github.com/fazrigading/WheelDeck"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2FWheelDeck&description_lines_count=3&theme=transparent&browser_rendering=true" alt="WheelDeck"></a><br>
+  <a href="https://github.com/fazrigading/GanodermaScout"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2FGanodermaScout&description_lines_count=3&theme=transparent&browser_rendering=true" alt="GanodermaScout"></a>
+  <a href="https://github.com/fazrigading/ingatini"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2Fingatini&description_lines_count=3&theme=transparent&browser_rendering=true" alt="ingatini"></a><br>
+  <a href="https://github.com/fazrigading/ROICropper"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2FROICropper&description_lines_count=3&theme=transparent&browser_rendering=true" alt="ROICropper"></a>
+  <a href="https://github.com/fazrigading/imagecategorizer"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2Fimagecategorizer&description_lines_count=3&theme=transparent&browser_rendering=true" alt="imagecategorizer"></a><br>
+  <a href="https://github.com/fazrigading/MilleRace"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2FMilleRace&description_lines_count=3&theme=transparent&browser_rendering=true" alt="MilleRace"></a>
+  <a href="https://github.com/fazrigading/playstation-game-store"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2Fplaystation-game-store&description_lines_count=3&theme=transparent&browser_rendering=true" alt="playstation-game-store"></a><br>
+  <a href="https://github.com/fazrigading/ssd-pipeline"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2Fssd-pipeline&description_lines_count=3&theme=transparent&browser_rendering=true" alt="ssd-pipeline"></a>
+  <a href="https://github.com/fazrigading/fasterrcnn-pipeline"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2Ffasterrcnn-pipeline&description_lines_count=3&theme=transparent&browser_rendering=true" alt="fasterrcnn-pipeline"></a><br>
+  <a href="https://github.com/fazrigading/retinanet-pipeline"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2Fretinanet-pipeline&description_lines_count=3&theme=transparent&browser_rendering=true" alt="retinanet-pipeline"></a>
+  <a href="https://github.com/fazrigading/efficientdet-pipeline"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2Fefficientdet-pipeline&description_lines_count=3&theme=transparent&browser_rendering=true" alt="efficientdet-pipeline"></a><br>
+  <a href="https://github.com/fazrigading/RT-DETRv3-CustomDataset"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2FRT-DETRv3-CustomDataset&description_lines_count=3&theme=transparent&browser_rendering=true" alt="RT-DETRv3-CustomDataset"></a>
+  <a href="https://github.com/fazrigading/D-FINE-CustomDataset"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2FD-FINE-CustomDataset&description_lines_count=3&theme=transparent&browser_rendering=true" alt="D-FINE-CustomDataset"></a><br>
+  <a href="https://github.com/fazrigading/cluster_kmedoid"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2Fcluster_kmedoid&description_lines_count=3&theme=transparent&browser_rendering=true" alt="cluster_kmedoid"></a>
+  <a href="https://github.com/fazrigading/censor-license-plate"><img src="https://github-stats-extended.vercel.app/api/pin?username=fazrigading&repo=fazrigading%2Fcensor-license-plate&description_lines_count=3&theme=transparent&browser_rendering=true" alt="censor-license-plate"></a><br>
+</div>
+
+
 </div>
 
 ## 🧠 About Me
